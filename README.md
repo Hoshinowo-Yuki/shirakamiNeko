@@ -1,4 +1,4 @@
-![GitHub Profile Banner](img/banner.jpg)  
+![img/banner.jpg](https://beacons.ai/goldenching5838)
 
 <br>
 
