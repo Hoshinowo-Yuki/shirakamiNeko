@@ -86,7 +86,7 @@ and later:
 
 ## 🤝 Connect with Me
 
-- 🐦 [X](https://twitter.com/your-twitter-handle)
+- 🐦 [X](https://x.com/goldenlight6628)
 - 🌐 [Website](https://beacons.ai/goldenching5838)
 - 📫 [Email Me](mailto:cont.chocolamilk92.dev@outlook.com)
 
