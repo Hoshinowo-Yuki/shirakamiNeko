@@ -59,8 +59,9 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 - [Skylar <3](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with discordpy.
 
 
-### 🧠 Memorable Mentions
-- [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): A project work on with my groupmate in college. This was where everything started.
+### 🧠 Honorable Mentions
+- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This was where my adventure started.
+- [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): A project work on with my groupmate in college.
 
 <br>
 
