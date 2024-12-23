@@ -1,4 +1,4 @@
-![img/banner.jpg](https://beacons.ai/goldenching5838)
+[![img/banner.jpg]](https://beacons.ai/goldenching5838)
 
 <br>
 
