@@ -21,7 +21,7 @@
 </details>
 
 
-### Welcome to My GitHub Profile!
+### Welcome to My GitHub Profile
 Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
 I'm a 19 y/o college undergrad student at [City University of Hong Kong](https://www.cityu.edu.hk/), majoring in Electrical engineering. I have been programming since around 2022 (theoretically...), mostly self-taught and learned from high school subjects.
@@ -60,7 +60,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 
 ### 🧠 Honorable Mentions
-- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This was where my adventure started.
+- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This was where the adventure started.
 - [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): A project work on with my groupmate in college.
 
 <br>
