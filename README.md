@@ -56,7 +56,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ### 🔥 Featured Projects
 - [IPv4 info retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
-- [Skylar <3](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with discordpy.
+- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with discordpy.
 
 
 ### 🧠 Honorable Mentions
