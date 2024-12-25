@@ -103,7 +103,7 @@ and later:
 
 ## ❤️ Support
 
-If you like what I do, consider giving my repositories a ⭐ or [buying me a coffee](https://buymeacoffee.com/goldenlight6628)! 😊
+If you like what I do, consider giving my repositories a ⭐ or [buying me a coffee](https://buymeacoffee.com/goldenlight6628)! 😊🥺
 \
 \
 \
