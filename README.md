@@ -95,6 +95,7 @@ and later:
 ## 🌟 Fun Facts About Me
 
 - 🎮 I enjoy gaming when I’m not coding.
+- 🟠 Orange is my most fav fruit & color 🍊
 - 📚 Reading books about tech, science, or personal development is my jam.
 - 🛤️ Always up for a challenge and love solving problems.
 
