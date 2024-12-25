@@ -3,7 +3,7 @@
 <br>
 
 <details>
-  <summary>GitHub stats:</summary>
+  <summary>GitHub Stats:</summary>
 
   <a href="https://github.com/ChocolaMilk92">
     <table>
@@ -24,7 +24,7 @@
 ### Welcome to My GitHub Profile
 Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
-I'm a 19 y/o college undergrad student at [City University of Hong Kong](https://www.cityu.edu.hk/), majoring in Electrical engineering. I have been programming since around 2022 (theoretically...), mostly self-taught and learned from high school subjects.
+I'm a 19 y/o college undergrad student at **[City University of Hong Kong](https://www.cityu.edu.hk/)**, majoring in Electrical engineering. I have been programming since around 2022 (theoretically...), mostly self-taught and learned from high school subjects.
 
 <br>
 
@@ -34,19 +34,19 @@ I'm a 19 y/o college undergrad student at [City University of Hong Kong](https:/
 - 💻 **What I Do:** Writing code, building projects, and learning something new every day.
 - 🎯 **Current Focus:** Building full-stack web applications.
 - 🌱 **Currently Learning:** Curl, React, TypeScript, cloud computing...
-- 📫 **How to Reach Me:** [cont.chocolamilk92.dev@outlook.com](mailto:cont.chocolamilk92.dev@outlook.com)
+- 📫 **How to Reach Me:** **[cont.chocolamilk92.dev@outlook.com](mailto:cont.chocolamilk92.dev@outlook.com)**
 
 #
 
-My first language was [Python](https://www.python.org/), which is still my main language, but I've used and still use a lot of other languages such as: JS/TS (with HTML & CSS), Docker, SQL (When I was in high school), C (For my flipper-zero), and R.
+My first language was **[Python](https://www.python.org/)**, which is still my main language, but I've used and still use a lot of other languages such as: **JS**/**TS** (with **HTML** & **CSS**), **[Docker](https://www.docker.com/)**, **SQL** (When I was in high school. Using **[MongoDB](https://www.mongodb.com/)** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
 
 My language of preference depends on the project and how I feel, but generally:
-- I use [Python](https://www.python.org/) and Docker on large projects such as websites
-- I use [Python](https://www.python.org/) (mainly) or JS/TS on small projects
-- I use [Python](https://www.python.org/) or C for programs that require high-performance
-- JS/TS, HTML5, CSS, and MongoDB are mostly used in web projects
+- I use [Python](https://www.python.org/) and **[Docker](https://www.docker.com/)** on large projects such as websites
+- I use [Python](https://www.python.org/) (mainly) or **JS**/**TS** on small projects
+- I use [Python](https://www.python.org/) or **C** for programs that require high-performance
+- **JS**/**TS**, **HTML**5, **CSS**, and **[MongoDB](https://www.mongodb.com/)** are mostly used in web projects
 
-My favorites are definitely Python and R; Python for flexibility and beginner-friendly, and R for awesome graph plotting and analysis.
+My favorites are definitely **Python** and **R**; **Python** for flexibility and beginner-friendly, and **R** for awesome graph plotting and analysis.
 
 <br>
 
