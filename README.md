@@ -12,7 +12,7 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChocolaMilk92&radfasf&arasfda&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChocolaMilk92&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChocolaMilk92&radfasf&arasfda&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
         </td>
       </tr>
     </table>
@@ -22,7 +22,7 @@
 
 
 ### Welcome to My GitHub Profile
-Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my personal portfolio site... or if you haven't, nice to meet you 😊!
+Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
 I'm a 19 y/o college undergrad student at [City University of Hong Kong](https://www.cityu.edu.hk/), majoring in Electrical engineering. I have been programming since around 2022 (theoretically...), mostly self-taught and learned from high school subjects.
 
