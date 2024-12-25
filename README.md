@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** Markdown "reference style" are in-used to all links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+
+
+
 [![](img/banner.jpg)](https://beacons.ai/goldenching5838)
 
 <br>
@@ -34,19 +45,18 @@ I'm a 19 y/o college undergrad student at **[City University of Hong Kong](https
 - 💻 **What I Do:** Writing code, building projects, and learning something new every day.
 - 🎯 **Current Focus:** Building full-stack web applications.
 - 🌱 **Currently Learning:** Curl, React, TypeScript, cloud computing...
-- 📫 **How to Reach Me:** **[cont.chocolamilk92.dev@outlook.com](mailto:cont.chocolamilk92.dev@outlook.com)**
 
-#
+<br>
 
-My first language was **[Python](https://www.python.org/)**, which is still my main language, but I've used and still use a lot of other languages such as: **JS**/**TS** (with **HTML** & **CSS**), **[Docker](https://www.docker.com/)**, **SQL** (When I was in high school. Using **[MongoDB](https://www.mongodb.com/)** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
+My first language was **[Python][Python]**, which is still my main language, but I've used and still use a lot of other languages such as: **JavaScript (JS)**/**[TypeScript (TS)][TypeScript]** (with **HTML** & **CSS**), **[Docker][Docker]**, **SQL** (When I was in high school. Using **[MongoDB][MongoDB]** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
 
 My language of preference depends on the project and how I feel, but generally:
-- I use [Python](https://www.python.org/) and **[Docker](https://www.docker.com/)** on large projects such as websites
-- I use [Python](https://www.python.org/) (mainly) or **JS**/**TS** on small projects
-- I use [Python](https://www.python.org/) or **C** for programs that require high-performance
-- **JS**/**TS**, **HTML**5, **CSS**, and **[MongoDB](https://www.mongodb.com/)** are mostly used in web projects
+- I use **[Python][Python]** and **[Docker][Docker]** on large projects such as websites
+- I use **[Python][Python]** (mainly) or **JS**/**[TS][TypeScript]** on small projects
+- I use **[Python][Python]** or **C** for programs that require high-performance
+- **JS**/**[TS][TypeScript]**, **HTML**5, **CSS**, and **[MongoDB][MongoDB]** are mostly used in web projects
 
-My favorites are definitely **Python** and **R**; **Python** for flexibility and beginner-friendly, and **R** for awesome graph plotting and analysis.
+My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Python]** for flexibility and beginner-friendly, and **[R][R]** for awesome graph plotting and analysis.
 
 <br>
 
@@ -86,9 +96,13 @@ and later:
 
 ## 🤝 Connect with Me
 
-- 🐦 [X](https://x.com/goldenlight6628)
-- 🌐 [Website](https://beacons.ai/goldenching5838)
-- 📫 [Email Me](mailto:cont.chocolamilk92.dev@outlook.com)
+- [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg)][Contact_X]
+
+- [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)][Contact_TG]
+
+- [![Website](img/web_32x32.png)][My_Website]
+
+-  [![Email Me](img/email_32x32.png)][Contact_Email]
 
 <br>
 
@@ -112,3 +126,29 @@ If you like what I do, consider giving my repositories a ⭐ or [buying me a cof
 *"Sometimes it's the journey that teaches you about the destination" - Drake*
 
 2024 MMXXIV © ChocolaMilk92, All rights reserved.
+
+
+
+<!--Links in use in this markdown for refrences-->
+
+[Contact_Email]: mailto:cont.chocolamilk92.dev@outlook.com
+
+[Contact_X]: https://x.com/goldenlight6628
+
+[My_Website]: https://beacons.ai/goldenching5838
+
+[Contact_TG]: https://t.me/CodeCrafter404
+
+[City_UHK]: https://www.cityu.edu.hk/
+
+[discord.py_GitHub]: https://github.com/Rapptz/discord.py
+
+[Python]: https://www.python.org/downloads/
+
+[Docker]: https://www.docker.com/
+
+[R]: https://www.r-project.org/
+
+[TypeScript]: https://www.typescriptlang.org/
+
+[MongoDB]: https://www.mongodb.com/
