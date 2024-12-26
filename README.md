@@ -66,19 +66,16 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ### 🔥 Featured Projects
 - [IPv4 info retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
-- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with discordpy.
+- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with [discord.py][discord.py_GitHub].
 
 
 ### 🧠 Honorable Mentions
-- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This was where the adventure started.
-- [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): A project work on with my groupmate in college.
+- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This is where my adventure gets started.
+- [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): My first project worked on with my groupmates in college.
 
 <br>
 
 ## 🔧 Technologies & Tools
-
-Here are some of the tools and technologies I now use:
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -87,7 +84,7 @@ Here are some of the tools and technologies I now use:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-and later:
+For later:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
@@ -114,16 +111,18 @@ and later:
 If you like what I do, consider giving my repositories a ⭐ or [buying me a coffee](https://buymeacoffee.com/goldenlight6628)! 😊🥺
 \
 \
-\
-\
-\
 *"Sometimes it's the journey that teaches you about the destination" - Drake*
+\
+*"Focus on the solution, not the problem." - (A wise man)*
+\
+\
+\
+\
+2024 MMXXIV © ChocolaMilk92. All Rights Reserved.
 
-2024 MMXXIV © ChocolaMilk92, All rights reserved.
 
 
-
-<!--Links in use in this markdown for refrences-->
+<!--Links in use in this markdown for references-->
 
 [Contact_Email]: mailto:cont.chocolamilk92.dev@outlook.com
 
