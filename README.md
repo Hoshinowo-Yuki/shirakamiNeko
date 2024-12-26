@@ -96,13 +96,7 @@ and later:
 
 ## 🤝 Connect with Me
 
-- [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg)][Contact_X]
-
-- [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)][Contact_TG]
-
-- [![Website](img/web_32x32.png)][My_Website]
-
--  [![Email Me](img/email_32x32.png)][Contact_Email]
+[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg)][Contact_X] &nbsp;&nbsp; [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)][Contact_TG] &nbsp;&nbsp; [![Website](img/web_32x32.png)][My_Website] &nbsp; &nbsp; [![Email Me](img/email_32x32.png)][Contact_Email]
 
 <br>
 
