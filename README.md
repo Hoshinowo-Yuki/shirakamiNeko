@@ -110,15 +110,18 @@ For later:
 ## ❤️ Support
 
 If you like what I do, consider giving my repositories a ⭐ or [buying me a coffee](https://buymeacoffee.com/goldenlight6628)! 😊🥺
-\
-\
+
+<br>
+
 ### "Sometimes it's the journey that teaches you about the destination" - *Drake*
 
 ### "Focus on the solution, not the problem." - *(A wise man)*
-\
-\
-\
-\
+
+<br>
+<br>
+<br>
+<br>
+
 2024 MMXXIV © ChocolaMilk92. All Rights Reserved.
 
 
