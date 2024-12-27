@@ -65,8 +65,9 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on.
 
 ### 🔥 Featured Projects
-- [IPv4 info retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
-- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): A Discord Bot that utilize with [discord.py][discord.py_GitHub].
+- [IPv4 Info Retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
+- [GitHub Followers Utility](https://github.com/ChocolaMilk92/github-followers-utility): A CLI helper for managing GitHub follow/unfollow actions.
+- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): An unfinished Discord Bot that utilize with [discord.py][discord.py_GitHub].
 
 
 ### 🧠 Honorable Mentions
