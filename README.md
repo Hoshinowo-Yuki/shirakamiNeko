@@ -35,7 +35,7 @@
 ### Welcome to My GitHub Profile
 Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
-I'm a 19 y/o college undergrad student at **[City University of Hong Kong](https://www.cityu.edu.hk/)**, majoring in Electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earilier in reality), mostly self-taught and learned from high school subjects.
+I'm a 19-year-old college undergraduate student from Hong Kong, majoring in electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earilier in reality), mostly self-taught and learned from high school subjects.
 
 <br>
 
@@ -135,8 +135,6 @@ If you like what I do, consider giving my repositories a ⭐ or [buying me a cof
 [My_Website]: https://beacons.ai/goldenching5838
 
 [Contact_TG]: https://t.me/CodeCrafter404
-
-[City_UHK]: https://www.cityu.edu.hk/
 
 [discord.py_GitHub]: https://github.com/Rapptz/discord.py
 
