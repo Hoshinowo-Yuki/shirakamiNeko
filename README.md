@@ -35,7 +35,7 @@
 ### Welcome to My GitHub Profile
 Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
-I'm a 19 y/o college undergrad student at **[City University of Hong Kong](https://www.cityu.edu.hk/)**, majoring in Electrical engineering? (not really sure for now...) I have been programming since around 2022 (theoretically...), mostly self-taught and learned from high school subjects.
+I'm a 19 y/o college undergrad student at **[City University of Hong Kong](https://www.cityu.edu.hk/)**, majoring in Electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earilier in reality), mostly self-taught and learned from high school subjects.
 
 <br>
 
@@ -62,7 +62,7 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 
 ## 🛠️ Projects & Repositories
 
-I usually work on whatever sparks my interest and enjoy learning new things with each project I take on.
+I usually work on whatever sparks my interest and enjoy learning new things with each project I take on
 
 ### 🔥 Featured Projects
 - [IPv4 Info Retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
