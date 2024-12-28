@@ -35,7 +35,7 @@
 ### Welcome to My GitHub Profile
 Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
-I'm a 19-year-old college undergraduate student from Hong Kong, majoring in electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earilier in reality), mostly self-taught and learned from high school subjects.
+I'm a 19 y/o college undergraduate student from Hong Kong, majoring in electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earlier in reality), mostly self-taught and learned from high school subjects.
 
 <br>
 
