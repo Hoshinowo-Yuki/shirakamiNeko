@@ -109,7 +109,11 @@ For later:
 
 ## ❤️ Support
 
-If you like what I do, consider giving my repositories a ⭐ or [buying me a coffee](https://buymeacoffee.com/goldenlight6628)! 😊🥺
+If you like what I'm doing, consider
+- Giving my repositories a ⭐ or
+- [Buy me a cup of coffee](https://buymeacoffee.com/goldenlight6628)
+
+to cheer up my work! 😊🥺
 
 <br>
 
@@ -124,7 +128,7 @@ If you like what I do, consider giving my repositories a ⭐ or [buying me a cof
 
 2024 MMXXIV © ChocolaMilk92. All Rights Reserved.
 
-
+### Thank you for your reading 🥰
 
 <!--Links in use in this markdown for references-->
 
