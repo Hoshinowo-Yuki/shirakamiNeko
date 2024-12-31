@@ -126,7 +126,7 @@ to cheer up my work! 😊🥺
 <br>
 <br>
 
-2025 MMXXIV © ChocolaMilk92. All Rights Reserved.
+2025 MMXXV © ChocolaMilk92. All Rights Reserved.
 
 ### Thank you for your reading 🥰
 
