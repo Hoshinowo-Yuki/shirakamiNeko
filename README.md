@@ -16,14 +16,14 @@
 <details>
   <summary>GitHub Stats:</summary>
 
-  <a href="https://github.com/ChocolaMilk92">
+  <a href="https://github.com/Yuzuk1Shimotsuki">
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-chocolamilk92.vercel.app/api?username=ChocolaMilk92&cache_seconds=300&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=300&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats-chocolamilk92.vercel.app/api/top-langs?username=ChocolaMilk92&cache_seconds=300&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=300&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
         </td>
       </tr>
     </table>
@@ -33,7 +33,7 @@
 
 
 ### 👋 Welcome to my secret palace
-Hi! I'm Gordon. You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
+Hi! I'm **Yuzuki Shimotsuki** (aka. Gordon). You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
 I'm a 19 y/o college undergraduate student from Hong Kong, majoring in electrical engineering? (not really sure for now...) I have been programming a lot since around 2022 (theoretically... much earlier in reality), mostly self-taught and learned from high school subjects.
 
@@ -126,13 +126,13 @@ to cheer up my work! 😊🥺
 <br>
 <br>
 
-2025 MMXXV © ChocolaMilk92. All Rights Reserved.
+2025 MMXXV © Yuzuk1Shimotsuki. All Rights Reserved.
 
 ### Thank you for your reading 🥰
 
 <!--Links in use in this markdown for references-->
 
-[Contact_Email]: mailto:cont.chocolamilk92.dev@outlook.com
+[Contact_Email]: mailto:yuzukishimotsuki-dev@lol-icon.app
 
 [Contact_X]: https://x.com/goldenlight6628
 
