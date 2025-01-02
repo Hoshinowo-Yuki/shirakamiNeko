@@ -20,10 +20,10 @@
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=300&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=15&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=300&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=15&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
         </td>
       </tr>
     </table>
@@ -65,14 +65,14 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on
 
 ### 🔥 Featured Projects
-- [IPv4 Info Retriever](https://github.com/ChocolaMilk92/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
-- [GitHub Followers Utility](https://github.com/ChocolaMilk92/github-followers-utility): A CLI helper for managing GitHub follow/unfollow actions.
-- [Skylar <3 (Unpublished)](https://github.com/ChocolaMilk92/Skylar3-Internal): An unfinished Discord Bot that utilize with [discord.py][discord.py_GitHub].
+- [IPv4 Info Retriever](https://github.com/Yuzuk1Shimotsuki/ipv4-info-retriever): A super lightweight Python script that retrieves detailed info for an IPv4 address.
+- [GitHub Followers Utility](https://github.com/Yuzuk1Shimotsuki/github-followers-utility): A CLI helper for managing GitHub follow/unfollow actions.
+- [Skylar <3 (Unpublished)](https://github.com/Yuzuk1Shimotsuki/Skylar3-Internal): An unfinished Discord Bot that utilize with [discord.py][discord.py_GitHub].
 
 
 ### 🧠 Honorable Mentions
-- [Telegram Bot](https://github.com/ChocolaMilk92/telegram-bot): My first Python project. This is where my adventure gets started.
-- [Magic Switch Box](https://github.com/ChocolaMilk92/magic-switch-box-microbit): My first project worked on with my groupmates in college.
+- [Telegram Bot](https://github.com/Yuzuk1Shimotsuki/telegram-bot): My first Python project. This is where my adventure gets started.
+- [Magic Switch Box](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit): My first project worked on with my groupmates in college.
 
 <br>
 
@@ -111,7 +111,7 @@ For later:
 
 If you like what I'm doing, consider
 - Giving my repositories a ⭐ or
-- [Buy me a cup of coffee](https://buymeacoffee.com/goldenlight6628)
+- [Buy me a cup of coffee][Buy_me_a_cup_of_coffee]
 
 to cheer up my work! 😊🥺
 
@@ -131,6 +131,8 @@ to cheer up my work! 😊🥺
 ### Thank you for your reading 🥰
 
 <!--Links in use in this markdown for references-->
+
+[Buy_me_a_cup_of_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
 
 [Contact_Email]: mailto:yuzukishimotsuki-dev@lol-icon.app
 
