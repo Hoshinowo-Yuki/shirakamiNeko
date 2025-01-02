@@ -9,7 +9,7 @@
 
 
 
-[![](img/banner.jpg)](https://beacons.ai/goldenching5838)
+[![Banner](img/banner.jpg)](https://beacons.ai/goldenching5838)
 
 <br>
 
