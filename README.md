@@ -9,7 +9,7 @@
 
 
 
-[![Banner](img/banner.jpg)](https://beacons.ai/goldenching5838)
+[![Banner](img/banner.jpg)](https://lolicon.wtf)
 
 <br>
 
@@ -138,7 +138,7 @@ to cheer up my work! 😊🥺
 
 [Contact_X]: https://x.com/goldenlight6628
 
-[My_Website]: https://beacons.ai/goldenching5838
+[My_Website]: https://lolicon.wtf
 
 [Contact_TG]: https://t.me/CodeCrafter404
 
