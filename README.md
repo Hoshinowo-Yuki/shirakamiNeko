@@ -20,7 +20,7 @@
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=15&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=30&show_icons=true&hide_border=true&icon_color=ffca28&title_color=ffa000" />
         </td>
         <td>
           <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=15&exclude_repo=telegram-bot,magic-switch-box-microbit&layout=donut&hide_border=true&title_color=ffa000" />
