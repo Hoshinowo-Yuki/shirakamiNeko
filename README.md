@@ -156,6 +156,8 @@ My language of preference depends on the project and how I feel, but generally:
 
 My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Python]** for flexibility and beginner-friendly, and **[R][R]** for awesome graph plotting and analysis.
 
+<br>
+
 ## ❤️ Support
 
 If you like what I'm doing, consider
