@@ -44,7 +44,7 @@ Here are some info about me:
 &emsp;&ensp; _(aka. 🌟 a passionate developer and open-source enthusiast.)_
 
 - 💻 "Programming" since 2022<br>
-&emsp;&ensp; _(theoretically... the moment when I created my 1st GitHub account and deleted it afterwards. Much earlier in reality)_
+&emsp;&ensp; _(theoretically... the moment when I created my 1st GitHub account. Much earlier in reality)_
 
 - 🎯 Building full-stack web applications since 2023
 - 🌱 React, Cloud Computing...
