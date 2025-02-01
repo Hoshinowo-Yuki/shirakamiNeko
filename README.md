@@ -36,7 +36,7 @@
 
 ## 👋 Welcome to my secret palace
 
-Hi! I'm **Shimotsuki Yuzuki** (霜月ゆずき). You may know me from Discord (My Discord account/ Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
+Hi! I'm **Shimotsuki Yuzuki** (霜月ゆずき). You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
 Here are some info about me:
 
