@@ -49,11 +49,11 @@ Here are some info about me:
 - 🏫 A 19 y/o college undergraduate EE student from HK<br>
 &emsp;&ensp; _(aka. 🌟 a passionate developer and open-source enthusiast.)_
 
-- 💻 "Programming" since 2022 (theoretically...)<br>
-&emsp;&ensp; _Writing code, learning something new every day._
+- 💻 "Programming" since 2022<br>
+&emsp;&ensp; _(theoretically... the moment when I created my 1st GitHub account and deleted it afterwards. Much earlier in reality)_
 
-- 🎯 Building full-stack web applications.
-- 🌱 Curl, React, TypeScript, Cloud Computing...
+- 🎯 Building full-stack web applications since 2023
+- 🌱 React, Cloud Computing...
 
 <br>
 
@@ -94,7 +94,6 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="48" height="48"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> </a>
   <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="48" height="48"/> </a>
@@ -104,6 +103,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 ### Currently learning
 
 <p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="48" height="48"/> </a>
