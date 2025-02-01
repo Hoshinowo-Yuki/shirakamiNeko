@@ -62,17 +62,18 @@ Here are some info about me:
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
 
 ### 🔥 Featured Projects
-![](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=ipv4-info-retriever)
 
-![](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)
+[![ipv4-info-retriever](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=ipv4-info-retriever)](https://github.com/Yuzuk1Shimotsuki/ipv4-info-retriever)
+
+[![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
 
 - [Skylar <3 (Unpublished)](https://github.com/Yuzuk1Shimotsuki/Skylar3-Internal): An unfinished Discord Bot that utilize with [discord.py][discord.py_GitHub], which is also my first backend project
 
 
 ### 🧠 Honorable Mentions
-![](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)
+[![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
 
-![](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)
+[![magic-switch-box-microbit](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit)
 
 <br>
 
@@ -81,7 +82,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="48" height="48"/> </a>
   <a href="http://python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="48" height="48"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> </a>
+  <a href="https://www.jsdelivr.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="jsdelivr" width="48" height="48"/> </a>
   <a href="https://caddyserver.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Caddyserver_logo_-_no_wordmark.svg" alt="caddy" width="48" height="48"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="48" height="48"/> </a>
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="48" height="48"/> </a>
@@ -162,7 +163,7 @@ to cheer up my work! 😊🥺
 
 ### "Sometimes it's the journey that teaches you about the destination" - *Drake*
 
-### "Focus on the solution, not the problem." - *(A wise man)*
+### "Focus on the solution, not the problem." - *Jim Rohn*
 
 <br>
 <br>
