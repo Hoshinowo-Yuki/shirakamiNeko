@@ -8,15 +8,9 @@
 -->
 
 
-
-
-
 [![Banner](img/banner.jpg)](https://lolicon.wtf)
 
 ![Yuzuk1Shimotsuki's Profile Views](https://komarev.com/ghpvc/?username=Yuzuk1Shimotsuki&color=orange)
-
-
-
 
 
 <details>
@@ -73,11 +67,9 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <br>
 
 ## 🔧 Languages & Tools
-
 ![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,dotnet,debian,figma,fediverse,git,github,githubactions,html,js,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,prisma,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,sentry,tauri,ts,visualstudio,vscode,windows,wordpress)
 
 ### Currently learning
-
 ![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,electron,express,java,jenkins,jquery,mysql,redis,spring,tailwind,webpack,vue,workers)
 
 <br>
@@ -94,7 +86,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="48" height="48"/> </a>
 </p>
 
-Or, you can visit me [Bento Profile][Bento] for more
+Or, you can visit me [Bento Profile][Bento] for more :)
 
 <br>
 
@@ -122,8 +114,8 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 ## ❤️ Support
 
 If you like what I'm doing, consider
-- Giving my repositories a ⭐ or
-- [Buy me a cup of coffee][Buy_me_a_cup_of_coffee]
+- Giving my repositories a star ⭐ or
+- [Buy me a cup of coffee ☕][Buy_me_a_cup_of_coffee]
 
 to cheer up my work! 😊🥺
 
@@ -167,12 +159,6 @@ to cheer up my work! 😊🥺
 [MongoDB]: https://www.mongodb.com/
 
 
-
-
-
-
-
-
 <!--
 **Yuzuk1Shimotsuki/Yuzuk1Shimotsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -188,5 +174,6 @@ Hi 👋, I'm @Yuzuk1Shimotsuki
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
