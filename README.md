@@ -10,8 +10,6 @@
 
 [![Banner](img/banner.jpg)](https://lolicon.wtf)
 
-![Yuzuk1Shimotsuki's Profile Views](https://komarev.com/ghpvc/?username=Yuzuk1Shimotsuki&color=orange)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -42,7 +40,7 @@
 
 </details>
 
-Welcome to my secret palace! I'm 霜月柚希 (霜月ゆずき) :)
+Welcome to my secret palace! You're my ![Yuzuk1Shimotsuki's Profile Views](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
 
 You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
