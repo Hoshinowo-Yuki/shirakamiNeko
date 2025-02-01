@@ -33,12 +33,21 @@
 
 </details>
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Heyo, I'm Shimotsuki Yuzuki
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-## 👋 Welcome to my secret palace
+Welcome to my secret palace! I'm 霜月柚希 (霜月ゆずき) :)
 
-Hi! I'm **Shimotsuki Yuzuki** (霜月ゆずき). You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
+You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
-Here are some info about me:
+As a chronically online user, here are some info about me :)
 
 - 🏫 A 19 y/o year 1 undergraduate EE student<br>
 &emsp;&ensp; _(aka. 🌟 a passionate developer and open-source enthusiast.)_
@@ -51,30 +60,30 @@ Here are some info about me:
 
 <br>
 
-## 📦 Projects
+### 📦 Projects
 
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
 
-### 🔥 Featured Projects
+#### 🔥 Featured Projects
 
 [![ipv4-info-retriever](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=ipv4-info-retriever)](https://github.com/Yuzuk1Shimotsuki/ipv4-info-retriever)
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
 
-### 🧠 Honorable Mentions
+#### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
 [![magic-switch-box-microbit](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit)
 
 <br>
 
-## 🔧 Languages & Tools
+### 🔧 Languages & Tools
 ![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,dotnet,debian,figma,fediverse,git,github,githubactions,html,js,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,prisma,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,sentry,tauri,ts,visualstudio,vscode,windows,wordpress)
 
-### Currently learning
+#### Currently learning
 ![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,electron,express,java,jenkins,jquery,mysql,redis,spring,tailwind,webpack,vue,workers)
 
 <br>
 
-## 🤝 Connect with Me!
+### 🤝 Connect with Me!
 
 <p align="left">
   <a href="https://x.com/goldenlight6628" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="48" height="48"/> </a>
@@ -90,7 +99,7 @@ Or, you can visit me [Bento Profile][Bento] for more :)
 
 <br>
 
-## ⚡ Fun Facts
+### ⚡ Fun Facts
 
 - 🚴 I enjoy cycling when I’m not coding.
 - 🟠 Orange is my most fav fruit & color 🍊
@@ -111,7 +120,7 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 
 <br>
 
-## ❤️ Support
+### ❤️ Support
 
 If you like what I'm doing, consider
 - Giving my repositories a star ⭐ or
@@ -121,14 +130,17 @@ to cheer up my work! 😊🥺
 
 <br>
 
-### "Sometimes it's the journey that teaches you about the destination" - *Drake*
+#### "Sometimes it's the journey that teaches you about the destination" - *Drake*
 
-### "Focus on the solution, not the problem." - *Jim Rohn*
+#### "Focus on the solution, not the problem." - *Jim Rohn*
 
 <br>
 <br>
 
 2025 MMXXV © Yuzuk1Shimotsuki. All Rights Reserved.
+
+<br>
+<br>
 
 ### Thank you for your reading 🥰
 
