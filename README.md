@@ -12,6 +12,15 @@
 
 ![Yuzuk1Shimotsuki's Profile Views](https://komarev.com/ghpvc/?username=Yuzuk1Shimotsuki&color=orange)
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Heyo 👋, I'm Shimotsuki Yuzuki
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 <details>
   <summary>GitHub Stats:</summary>
@@ -33,30 +42,20 @@
 
 </details>
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Heyo, I'm Shimotsuki Yuzuki
-      </h1>
-    </summary>
-  </ul>
-</div>
-
 Welcome to my secret palace! I'm 霜月柚希 (霜月ゆずき) :)
 
 You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
 
 As a chronically online user, here are some info about me :)
 
-- 🏫 A 19 y/o year 1 undergraduate EE student<br>
-&emsp;&ensp; _(aka. 🌟 a passionate developer and open-source enthusiast.)_
+- 🏫 **19 y/o**, **year 1 undergraduate EE** student<br>
+&emsp;&ensp; _(aka. 🌟 a **passionate developer** and **open-source enthusiast**.)_
 
-- 💻 "Programming" since 2022<br>
-&emsp;&ensp; _(theoretically... the moment when I created my 1st GitHub account. Much earlier in reality)_
+- 💻 **"Programming"** since **2022**<br>
+&emsp;&ensp; _(theoretically... the moment when I **created my 1st GitHub account**. Much earlier in reality)_
 
-- 🎯 Building full-stack web applications since 2023
-- 🌱 React, Cloud Computing...
+- 🎯 **Building full-stack web applications** since **2023**
+- 🌱 **React**, **Cloud Computing**...
 
 <br>
 
