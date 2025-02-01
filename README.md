@@ -28,7 +28,7 @@
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&count_private=true&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ffca28&title_color=ffa000" />
         </td>
         <td>
           <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ffa000" />
@@ -74,50 +74,11 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ## 🔧 Languages & Tools
 
-<p align="left">
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="48" height="48"/> </a>
-  <a href="http://python.org/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="48" height="48"/> </a>
-  <a href="https://www.jsdelivr.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="jsdelivr" width="48" height="48"/> </a>
-  <a href="https://caddyserver.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Caddyserver_logo_-_no_wordmark.svg" alt="caddy" width="48" height="48"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="48" height="48"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="48" height="48"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/docker-logos/SVG/docker-mark-blue.svg" alt="docker" width="48" height="48"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="48" height="48"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="48" height="48"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/nodejs-3.svg" alt="nodejs" width="48" height="48"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/> </a>
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="48" height="48"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="48" height="48"/> </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373924/nginx.svg" alt="nginx" width="48" height="48"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> </a>
-  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="48" height="48"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> </a>
-</p>
+![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,dotnet,debian,figma,fediverse,git,github,githubactions,html,js,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,prisma,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,sentry,tauri,ts,visualstudio,vscode,windows,wordpress)
 
 ### Currently learning
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="48" height="48"/> </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="48" height="48"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="48" height="48"/> </a>
-  <a href="https://pptr.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="48" height="48"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="48" height="48"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="48" height="48"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.svg" alt="webpack" width="48" height="48"/> </a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Android_Studio_Logo_2024.svg" alt="androidstudio" width="48" height="48"/> </a>
-</p>
+![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,electron,express,java,jenkins,jquery,mysql,redis,spring,tailwind,webpack,vue,workers)
 
 <br>
 
