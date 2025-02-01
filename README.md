@@ -10,16 +10,6 @@
 
 [![Banner](img/banner.jpg)](https://lolicon.wtf)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        Heyo <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, I'm Shimotsuki Yuzuki
-      </h1>
-    </summary>
-  </ul>
-</div>
-
 <details>
   <summary>GitHub Stats:</summary>
   <br>
@@ -39,6 +29,16 @@
   </a>
 
 </details>
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Heyo <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, I'm Shimotsuki Yuzuki
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ### 🌟 Welcome to my secret palace! You're my ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
 
