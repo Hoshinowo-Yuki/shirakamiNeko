@@ -65,7 +65,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 #### 🔥 Featured Projects
 
-[![ipv4-info-retriever](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=ipv4-info-retriever)](https://github.com/Yuzuk1Shimotsuki/ipv4-info-retriever)
+[![ipv4-info-retriever](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=live2d-widget-tc)](https://github.com/Yuzuk1Shimotsuki/live2d-widget-tc)
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
 
 #### 🧠 Honorable Mentions
