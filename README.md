@@ -46,7 +46,7 @@ Hi! I'm **Shimotsuki Yuzuki** (霜月ゆずき). You may know me from Discord (M
 
 Here are some info about me:
 
-- 🏫 A 19 y/o college undergraduate EE student from HK<br>
+- 🏫 A 19 y/o year 1 undergraduate EE student<br>
 &emsp;&ensp; _(aka. 🌟 a passionate developer and open-source enthusiast.)_
 
 - 💻 "Programming" since 2022<br>
