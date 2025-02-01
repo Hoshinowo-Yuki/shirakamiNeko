@@ -123,13 +123,23 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ## 🤝 Connect with Me!
 
-[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg)][Contact_X] &nbsp;&nbsp; [![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg)][Contact_TG] &nbsp;&nbsp; [![Website](img/web_32x32.png)][My_Website] &nbsp; &nbsp; [![Email Me](img/email_32x32.png)][Contact_Email]
+<p align="left">
+  <a href="https://x.com/goldenlight6628" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="48" height="48"/> </a>
+  &emsp;&emsp;
+  <a href="https://t.me/CodeCrafter404" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram" width="48" height="48"/> </a>
+  &emsp;&emsp;
+  <a href="https://lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/website.svg" alt="Website" width="48" height="48"/> </a>
+  &emsp;&emsp;
+  <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="48" height="48"/> </a>
+</p>
+
+Or, you can visit me [Bento Profile][Bento] for more
 
 <br>
 
 ## ⚡ Fun Facts
 
-- 🎮 I enjoy gaming when I’m not coding.
+- 🚴 I enjoy cycling when I’m not coding.
 - 🟠 Orange is my most fav fruit & color 🍊
 - 📚 Reading books about tech, science, or personal development is my jam.
 - 🛤️ Always up for a challenge and love solving problems.
@@ -177,15 +187,9 @@ to cheer up my work! 😊🥺
 
 <!--Links in use in this markdown for references-->
 
+[Bento]: https://bento.me/yuzuk1shimotsuki
+
 [Buy_me_a_cup_of_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
-
-[Contact_Email]: mailto:yuzukishimotsuki-dev@lol-icon.app
-
-[Contact_X]: https://x.com/goldenlight6628
-
-[My_Website]: https://lolicon.wtf
-
-[Contact_TG]: https://t.me/CodeCrafter404
 
 [discord.py_GitHub]: https://github.com/Rapptz/discord.py
 
@@ -221,4 +225,5 @@ Hi 👋, I'm @Yuzuk1Shimotsuki
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
