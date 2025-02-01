@@ -40,14 +40,17 @@
 
 </details>
 
-Welcome to my secret palace! You're my ![Yuzuk1Shimotsuki's Profile Views](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
+### 🌟 Welcome to my secret palace! You're my ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
 
-You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal portfolio site... or if you haven't, nice to meet you 😊!
+You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
 
 As a chronically online user, here are some info about me :)
 
-- 🏫 **19 y/o**, **year 1 undergraduate EE** student<br>
-&emsp;&ensp; _(aka. 🌟 a **passionate developer** and **open-source enthusiast**.)_
+- 👄 You can call me **霜月柚希** (**霜月ゆずき**)<br>
+&emsp;&ensp; _(or **Shimotsuki Yuzuki** / **高登大師** / **Golden Ching** / ...)_
+
+- 🏫 A **19 y/o**, **year 1 undergraduate EE** student<br>
+&emsp;&ensp; _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_
 
 - 💻 **"Programming"** since **2022**<br>
 &emsp;&ensp; _(theoretically... the moment when I **created my 1st GitHub account**. Much earlier in reality)_
@@ -76,7 +79,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 ![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,dotnet,debian,figma,fediverse,git,github,githubactions,html,js,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,prisma,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,sentry,tauri,ts,visualstudio,vscode,windows,wordpress)
 
 #### Currently learning
-![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,electron,express,java,jenkins,jquery,mysql,redis,spring,tailwind,webpack,vue,workers)
+![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,electron,express,java,jenkins,jquery,mysql,react,redis,spring,tailwind,webpack,vue,workers)
 
 <br>
 
@@ -183,6 +186,4 @@ Hi 👋, I'm @Yuzuk1Shimotsuki
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 
