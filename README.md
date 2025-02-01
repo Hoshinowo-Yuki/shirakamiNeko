@@ -64,15 +64,10 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 ### 🔥 Featured Projects
 
 [![ipv4-info-retriever](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=ipv4-info-retriever)](https://github.com/Yuzuk1Shimotsuki/ipv4-info-retriever)
-
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
-
-- [Skylar <3 (Unpublished)](https://github.com/Yuzuk1Shimotsuki/Skylar3-Internal): An unfinished Discord Bot that utilize with [discord.py][discord.py_GitHub], which is also my first backend project
-
 
 ### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
-
 [![magic-switch-box-microbit](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit)
 
 <br>
