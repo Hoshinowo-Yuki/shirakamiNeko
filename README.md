@@ -16,7 +16,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Heyo 👋, I'm Shimotsuki Yuzuki
+        Heyo <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, I'm Shimotsuki Yuzuki
       </h1>
     </summary>
   </ul>
