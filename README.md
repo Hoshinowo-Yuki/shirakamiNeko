@@ -108,7 +108,7 @@ Or, you can visit me [Bento Profile][Bento] for more :)
 
 <br>
 
-My first language was **[Python][Python]**, which is still my main language, but I've used and still use a lot of other languages such as: **JavaScript (JS)**/**[TypeScript (TS)][TypeScript]** (with **HTML** & **CSS**), **[Docker][Docker]**, **SQL** (When I was in high school. Using **[MongoDB][MongoDB]** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
+My first programming language was **[Python][Python]**, which is still my prioritized language, but I've used and still use a variety of other programming languages such as: **JavaScript (JS)**/**[TypeScript (TS)][TypeScript]** (with **HTML** & **CSS**), **[Docker][Docker]**, **SQL** (When I was in high school. Using **[MongoDB][MongoDB]** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
 
 My language of preference depends on the project and how I feel, but generally:
 - I use **[Python][Python]** and **[Docker][Docker]** on large projects such as websites
