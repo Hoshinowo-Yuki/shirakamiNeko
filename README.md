@@ -8,7 +8,7 @@
 -->
 
 
-[![Banner](img/banner.jpg)](https://lolicon.wtf)
+[![Banner](img/banner1.jpg)](https://lolicon.wtf)
 
 <details>
   <summary>GitHub Stats:</summary>
