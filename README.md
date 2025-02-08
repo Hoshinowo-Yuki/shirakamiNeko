@@ -95,7 +95,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="40" height="40"/> </a>
 </p>
 
-Or, you can visit me [Bento Profile][Bento] for more :)
+or, you can visit me [Bento Profile][Bento] for more :)
 
 <br>
 
