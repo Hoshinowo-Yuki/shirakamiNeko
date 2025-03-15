@@ -49,7 +49,7 @@ As a chronically online user, here are some info about me :)
 - 👄 You can call me **霜月柚希** (**霜月ゆずき**)<br>
 &emsp;&ensp; _(or **Shimotsuki Yuzuki** / **高登大師** / **Golden Ching** / ...)_
 
-- 🏫 A **19 y/o**, **year 1 undergraduate EE** student<br>
+- 🏫 A **19 y/o**, **year 1 undergraduate EE** student from HK<br>
 &emsp;&ensp; _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_
 
 - 💻 **"Programming"** since **2022**<br>
@@ -83,7 +83,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 <br>
 
-### 🤝 Connect with Me!
+### 🤝 How to reach me
 
 <p align="left">
   <a href="https://x.com/goldenlight6628" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40" height="40"/> </a>
@@ -97,14 +97,19 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 or, you can visit me [Bento Profile][Bento] for more :)
 
+Moreover, you can also connect with me using my public key below:
+
+[My GPG key :)
+](https://github.com/Yuzuk1Shimotsuki.gpg)
+
 <br>
 
-### ⚡ Fun Facts
+### ⚡ Some kind of fun facts I guess?
 
-- 🚴 I enjoy cycling when I’m not coding.
+- 🚴 I enjoy cycling when I’m not coding
 - 🟠 Orange is my most fav fruit & color 🍊
-- 📚 Reading books about tech, science, or personal development is my jam.
-- 🛤️ Always up for a challenge and love solving problems.
+- 📚 Reading books about tech, science, or personal development is my jam (maybe...)
+- 🛤️ Always up for a challenge and love solving problems
 
 <br>
 
@@ -122,7 +127,7 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 
 ### ❤️ Support
 
-If you like what I'm doing, consider
+If you love what I'm doing, consider
 - Giving my repositories a star ⭐ or
 - [Buy me a cup of coffee ☕][Buy_me_a_cup_of_coffee]
 
