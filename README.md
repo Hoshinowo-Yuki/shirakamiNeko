@@ -76,10 +76,10 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <br>
 
 ### 🔧 Languages & Tools
-![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
+![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,jquery,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
 
 #### Currently learning
-![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,jquery,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
+![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
 
 <br>
 
