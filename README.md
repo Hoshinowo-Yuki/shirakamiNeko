@@ -13,7 +13,7 @@
 <details>
   <summary>GitHub Stats:</summary>
   <br>
-  <div>&nbsp;&nbsp;&nbsp;&nbsp;Just to prove how lazy I am :)</div>
+  <div>&emsp;Just to prove how lazy I am :)</div>
   <br>
   <a href="https://github.com/Yuzuk1Shimotsuki">
     <table>
