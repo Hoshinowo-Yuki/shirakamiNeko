@@ -127,11 +127,11 @@ My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Pyth
 
 ### ❤️ Support
 
-If you love what I'm doing, consider
-- Giving my repositories a star ⭐ or
-- [Buy me a cup of coffee ☕][Buy_me_a_cup_of_coffee]
+If you appreciate my work, consider
+- Giving my repositories a ⭐ or
+- [Buy me a cup of coffee ☕][Buy_me_a_coffee]
 
-to cheer up my work! 😊🥺
+to cheer me up! 😊🥺
 
 <br>
 
@@ -161,7 +161,7 @@ to cheer up my work! 😊🥺
 
 [Bento]: https://bento.me/yuzuk1shimotsuki
 
-[Buy_me_a_cup_of_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
+[Buy_me_a_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
 
 [discord.py_GitHub]: https://github.com/Rapptz/discord.py
 
