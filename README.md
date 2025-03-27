@@ -46,9 +46,9 @@ You may know me from Discord (My Discord account / Discord bot I made), my YouTu
 
 As a chronically online user, here are some info about me :)
 
-&emsp;👄 √√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) &ensp; √√ **霜月の光** (**霜月のひかり**, 羅馬音: **Shimotsuki Hikari**)<br>
-
-&emsp;&emsp;&ensp;&ensp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
+&emsp;👄 √√√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) /<br><br>
+&emsp;&emsp;&emsp; √√ **霜月の光** (**霜月のひかり**, 羅馬音: **Shimotsuki Hikari**) /<br><br>
+&emsp;&emsp;&emsp;&ensp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
 
 &emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
 
