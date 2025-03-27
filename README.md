@@ -46,17 +46,21 @@ You may know me from Discord (My Discord account / Discord bot I made), my YouTu
 
 As a chronically online user, here are some info about me :)
 
-- 👄 You can call me **霜月柚希** (**霜月ゆずき**)<br>
-&emsp;&ensp; _(or **Shimotsuki Yuzuki** / **高登大師** / **Golden Ching** / ...)_
+&emsp;👄 √√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) &ensp; √√ **霜月の光** (**霜月のひかり**, 羅馬音: **Shimotsuki Hikari**)<br>
 
-- 🏫 A **19 y/o**, **year 1 undergraduate EE** student from HK<br>
-&emsp;&ensp; _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_
+&emsp;&emsp;&ensp;&ensp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
 
-- 💻 **"Programming"** since **2022**<br>
-&emsp;&ensp; _(theoretically... the moment when I **created my 1st GitHub account**. Much earlier in reality)_
+&emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
 
-- 🎯 **Building full-stack web applications** since **2023**
-- 🌱 **React**, **Cloud Computing**...
+&emsp;🏫 A **19 y/o**, **year 1 undergraduate EE** student from HK<br>
+&emsp;&emsp;&ensp; _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_<br><br>
+
+&emsp;💻 **"Programming"** since **2022**<br>
+&emsp;&emsp;&ensp; _(theoretically... the moment when I **created my 1st GitHub account**. Much earlier in reality)_<br><br>
+
+&emsp;🎯 **Building full-stack web applications** since **2023**<br><br>
+
+&emsp;🌱 **React**, **Cloud Computing**...<br>
 
 <br>
 
