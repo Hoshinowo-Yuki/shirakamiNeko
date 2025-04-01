@@ -44,8 +44,18 @@
 
 You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
 
-As a chronically online user, here are some info about me :)
+如果你識得睇白話，在下感到十分欣慰。因為小弟係一個土生土長嘅香港人，18歲殺入吾城。大約6歲左右學識砌電腦。8歲識`ipconfig`...
 
+後尾雖然因為學業原因而停滯咗一段時間，以致我喺 coding skills 同 language 方面*遠遠比唔上其他同齡嘅人*... 但最後都算係喺15歲嗰年開咗個濕9 Blog，17歲買咗部NAS嚟玩，同年暑假自學曬成個Python (雖然仲有好多plugin未玩熟) 兼砌咗人生中第一隻 Discord Bot... 
+
+嗯，冇錯。你哋而家見到嘅 [@Hikari](https://github.com/HikariApp/Hikari) 正正就係當年遺留落嚟嘅產物... (目前已被小弟多次重新「包裝」，執到靚靚仔仔咁款先公開嘅。嚟緊已計劃再度重構)
+
+小弟自問語言能力一般，不過都歡迎你哋嚟搵我交流。<br>
+熟落少少嘅可以就咁叫我 Gordon 就得。唔好用下面嗰咋濕9網名...
+
+如果鐘意我D project 歡迎俾粒星星或者去下面D網站到 support 我，你嘅支持將會係小弟嘅最大動力 ❤️
+
+As a chronically online user, here are some info about me :)
 &emsp;👄 √√√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) /<br><br>
 &emsp;&emsp;&emsp; √√ **霜月の光** (**霜月のひかり**, 羅馬音: **Shimotsuki Hikari**) /<br><br>
 &emsp;&emsp;&emsp;&ensp;&nbsp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
