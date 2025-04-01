@@ -118,6 +118,8 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="40" height="40"/> </a>
 </p>
 
+<a href="https://discordapp.com/users/885756325798227988"><img width="300" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
+
 or, you can visit me [Bento Profile][Bento] for more :)
 
 Moreover, you can also connect with me using my public key below:
