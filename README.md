@@ -113,12 +113,12 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   &emsp;&emsp;
   <a href="https://t.me/CodeCrafter404" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram" width="40" height="40"/> </a>
   &emsp;&emsp;
-  <a href="https://lolicon.wtf/friends" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/website.svg" alt="Website" width="40" height="40"/> </a>
+  <a href="https://moe.lolicon.wtf/friends" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/website.svg" alt="Website" width="40" height="40"/> </a>
   &emsp;&emsp;
   <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="40" height="40"/> </a>
 </p>
 
-<a href="https://discordapp.com/users/885756325798227988"><img width="300" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
+<a href="https://discordapp.com/users/885756325798227988"><img width="325" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
 
 or, you can visit me [Bento Profile][Bento] for more :)
 
