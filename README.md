@@ -40,28 +40,15 @@
   </ul>
 </div>
 
+
+> [!NOTE]
+> This README is avaliable in the following languages:
+> 
+> [**English**](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README.md)&emsp;[廣東話](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README_cantonese.md)
+
 ### 🌟 Welcome to my secret palace! You're my ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
 
 You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
-
-<br>
-
-如果你識得睇白話，在下感到十分欣慰。
-
-小弟係一個土生土長嘅香港人，18歲殺入吾城。
-
-大約6歲左右學識砌電腦。8歲識 `ipconfig`，9歲識 VirtualBox (VMWare 則16歲先識)...
-
-後尾雖然因為學業原因而停滯咗一段長時間，以致我喺 coding skills 同 language 方面*遠遠比唔上其他同齡嘅人*... 但最後都算係喺15歲嗰年開咗個濕9 Blog，17歲買咗部NAS嚟玩，同年暑假自學曬成個Python (雖然仲有好多plugin未玩熟) 兼砌咗人生中第一隻 Discord Bot...
-
-嗯，冇錯。你哋而家見到嘅 [@Hikari](https://github.com/HikariApp/Hikari) 正正就係當年遺留落嚟嘅產物... (目前已被小弟多次重新「包裝」，執到靚靚仔仔咁款先公開嘅。嚟緊已計劃再度重構)
-
-小弟自問語言 & 社交能力一般，不過都歡迎你哋嚟搵我交流。 <br>
-熟落少少嘅可以就咁叫我 Gordon 就得。唔好用下面嗰咋濕9網名...
-
-如果鐘意我D project 歡迎俾粒星星或者去下面D網站到 support 我，你嘅支持將會係小弟嘅最大動力 ❤️
-
-<br>
 
 As a chronically online user, here are some info about me :)
 
@@ -71,13 +58,11 @@ As a chronically online user, here are some info about me :)
 
 &emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
 
-&emsp;🏫 A **19 y/o**, **year 1 undergraduate EE** student from HK<br>
-&emsp;&emsp;&ensp; _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_<br><br>
+&emsp;🏫 **19 y/o**, **year 1 undergraduate EE** student _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_ from HK<br>
 
-&emsp;💻 **"Programming"** since **2022**<br>
-&emsp;&emsp;&ensp; _(theoretically... the moment when I **created my 1st GitHub account**. Much earlier in reality)_<br><br>
+&emsp;💻 **"Programming"** since **2022**, theoretically...<br>
 
-&emsp;🎯 **Building full-stack web applications** since **2023**<br><br>
+&emsp;🎯 **Building full-stack web applications** since **2023**<br>
 
 &emsp;🌱 **React**, **Cloud Computing**...<br>
 
