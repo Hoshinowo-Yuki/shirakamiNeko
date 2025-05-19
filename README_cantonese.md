@@ -44,7 +44,7 @@
 > [!NOTE]
 > This README is avaliable in the following languages:
 > 
-> [**English**](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README.md)&emsp;[廣東話](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README_cantonese.md)
+> [**廣東話**](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README_cantonese.md)&emsp; [English](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README.md)
 
 ### 🌟 歡迎蒞臨寒舍！你係我第 ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) 個訪客。
 
