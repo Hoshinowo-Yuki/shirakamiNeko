@@ -46,11 +46,11 @@
 > 
 > [**English**](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README.md)&emsp;[廣東話](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README_cantonese.md)
 
-### 🌟 Welcome to my secret palace! You're my ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
+### 🌟 歡迎蒞臨寒舍！你係我第 ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) 個訪客。
 
-如果你識得睇白話，在下感到十分欣慰。
+如果你識得睇白話，在下感到十分欣慰。因為呢邊嘅野將會同英文個version完全唔同。
 
-小弟係一個土生土長嘅香港人，18歲殺入吾城。
+小弟係一個土生土長嘅香港人，現年19歲。18歲嗰年殺入吾城。
 
 大約6歲左右學識砌電腦。8歲識 `ipconfig`，9歲識 VirtualBox (VMWare 則16歲先識)...
 
@@ -58,34 +58,17 @@
 
 嗯，冇錯。你哋而家見到嘅 [@Hikari](https://github.com/HikariApp/Hikari) 正正就係當年遺留落嚟嘅產物... (目前已被小弟多次重新「包裝」，執到靚靚仔仔咁款先公開嘅。嚟緊已計劃再度重構)
 
-小弟自問語言 & 社交能力一般，不過都歡迎你哋嚟搵我交流。 <br>
-熟落少少嘅可以就咁叫我 Gordon 就得。唔好用下面嗰咋濕9網名...
+2022年先「開始」真正落手寫 code，23年開始整 full-stack 。到目前技術都依然係得嗰半桶水......
 
-如果鐘意我D project 歡迎俾粒星星或者去下面D網站到 support 我，你嘅支持將會係小弟嘅最大動力 ❤️
+如英文版所述，小弟嘅網名有唔少。但真名就只係得一個。究竟係咩呢？相信唔少同我熟D嘅人都知，乃 Gordon 也！
 
+(嗯，另一個網名 **高登大師** 就係因此而得名嘅 ~)
 
+小弟自問語言 & 社交能力一般，不過偶爾會喺 Discord / YT / IG / 自己個 Blog 度蒲吓頭。所以你哋應該有機會會係嗰啲地方見到我嘅蹤跡。
 
-You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
+歡迎你哋嚟搵我交流。如果想同我熟落D嘅可以就咁叫我真名 。唔好叫英文版嗰咋濕9網名...
 
-As a chronically online user, here are some info about me :)
-
-&emsp;👄 √√√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) /<br><br>
-&emsp;&emsp;&emsp; √√ **霜月ひかり**, 羅馬音: **Shimotsuki Hikari** /<br><br>
-&emsp;&emsp;&emsp;&ensp;&nbsp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
-
-&emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
-
-&emsp;🏫 **19 y/o**, **year 1 undergraduate EE** student _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_ from HK<br>
-
-&emsp;💻 **"Programming"** since **2022**, theoretically...<br>
-
-&emsp;🎯 **Building full-stack web applications** since **2023**<br>
-
-&emsp;🌱 **React**, **Cloud Computing**...<br>
-
-<br>
-
-### 📦 Projects
+### 📦 項目
 
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
 
