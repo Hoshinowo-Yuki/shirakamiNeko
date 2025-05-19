@@ -34,7 +34,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Heyo <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, I'm Shimotsuki Yuzuki
+        Hii <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, Yuzuki です
       </h1>
     </summary>
   </ul>
