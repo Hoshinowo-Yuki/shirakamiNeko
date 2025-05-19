@@ -48,7 +48,7 @@
 
 ### 🌟 歡迎蒞臨寒舍！你係我第 ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) 個訪客。
 
-如果你識得睇白話，在下感到十分欣慰。因為呢邊嘅野將會同英文個version完全唔同。
+如果你識得睇白話，在下感到十分欣慰。因為呢邊嘅野將會同英文版完全唔同。
 
 小弟係一個土生土長嘅香港人，現年19歲。18歲嗰年殺入吾城。
 
@@ -66,13 +66,13 @@
 
 小弟自問語言 & 社交能力一般，不過偶爾會喺 Discord / YT / IG / 自己個 Blog 度蒲吓頭。所以你哋應該有機會會係嗰啲地方見到我嘅蹤跡。
 
-歡迎你哋嚟搵我交流。如果想同我熟落D嘅可以就咁叫我真名 。唔好叫英文版嗰咋濕9網名...
+歡迎你哋嚟搵我交流。如果想同我熟落D嘅可以就咁叫我真名 。唔好叫英文版嗰咋濕9網名......
 
 ### 📦 項目
 
-I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
+我通常都會學以致用，或者以個人興趣為先。一般黎講
 
-#### 🔥 Featured Projects
+#### 🔥 重點項目
 
 [![Hikari](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=HikariApp&repo=Hikari)](https://github.com/HikariApp/Hikari)
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
@@ -83,15 +83,15 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 <br>
 
-### 🔧 Languages & Tools
+### 🔧 常用程式語言 & 工具
 ![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,jquery,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
 
-#### Currently learning
+#### 正在摸索
 ![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
 
 <br>
 
-### 🤝 How to reach me
+### 🤝 聯絡方法
 
 <p align="left">
   <a href="https://x.com/goldenlight6628" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40" height="40"/> </a>
@@ -105,43 +105,26 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="325" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
 
-or, you can visit me [Bento Profile][Bento] for more :)
+或者可以去我嘅 [Bento Profile][Bento] 度睇睇 :)
 
-Moreover, you can also connect with me using my public key below:
+再唔係你可以用下面條 GPG 公匙都得
 
-[My GPG key :)
+[我嘅 GPG 公匙 :)
 ](https://github.com/Yuzuk1Shimotsuki.gpg)
-
-<br>
-
-### ⚡ Some kind of fun facts I guess?
-
-- 🚴 I enjoy cycling when I’m not coding
-- 🟠 Orange is my most fav fruit & color 🍊
-- 📚 Reading books about tech, science, or personal development is my jam (maybe...)
-- 🛤️ Always up for a challenge and love solving problems
-
-<br>
-
-My first programming language was **[Python][Python]**, which is still my prioritized language, but I've used and still use a variety of other programming languages such as: **JavaScript (JS)**/**[TypeScript (TS)][TypeScript]** (with **HTML** & **CSS**), **[Docker][Docker]**, **SQL** (When I was in high school. Using **[MongoDB][MongoDB]** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
-
-My language of preference depends on the project and how I feel, but generally:
-- I use **[Python][Python]** and **[Docker][Docker]** on large projects such as websites
-- I use **[Python][Python]** (mainly) or **JS**/**[TS][TypeScript]** on small projects
-- I use **[Python][Python]** or **C** for programs that require high-performance
-- **JS**/**[TS][TypeScript]**, **HTML**5, **CSS**, and **[MongoDB][MongoDB]** are mostly used in web projects
-
-My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Python]** for flexibility and beginner-friendly, and **[R][R]** for awesome graph plotting and analysis.
-
-<br>
 
 ### ❤️ Support
 
-If you appreciate my work, consider
-- Giving my repositories a ⭐ or
-- [Buy me a cup of coffee ☕][Buy_me_a_coffee]
+如果鐘意我D project，不仿
 
-to cheer me up! 😊🥺
+- 俾粒星星 ⭐ 
+- 分享我嘅 Repo
+
+或者去下面D網站到 support 我
+
+- [Buy me a coffee ☕][Buy_me_a_coffee]
+
+
+你嘅支持，定係小弟嘅最大動力！ 😊🥺
 
 <br>
 
