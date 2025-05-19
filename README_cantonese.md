@@ -68,14 +68,20 @@
 
 歡迎你哋嚟搵我交流。如果想同我熟落D嘅可以就咁叫我真名 。唔好叫英文版嗰咋濕9網名......
 
+<br>
+
 ### 📦 項目
 
 我通常都會學以致用，或者以個人興趣為先。一般黎講
+
+<br>
 
 #### 🔥 重點項目
 
 [![Hikari](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=HikariApp&repo=Hikari)](https://github.com/HikariApp/Hikari)
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
+
+<br>
 
 #### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
@@ -112,6 +118,8 @@
 [我嘅 GPG 公匙 :)
 ](https://github.com/Yuzuk1Shimotsuki.gpg)
 
+<br>
+
 ### ❤️ Support
 
 如果鐘意我D project，不仿
@@ -122,7 +130,6 @@
 或者去下面D網站到 support 我
 
 - [Buy me a coffee ☕][Buy_me_a_coffee]
-
 
 你嘅支持，定係小弟嘅最大動力！ 😊🥺
 
@@ -140,7 +147,7 @@
 <br>
 <br>
 
-### Thank you for your reading 🥰
+### 感謝您嘅閱讀 🥰
 
 
 
