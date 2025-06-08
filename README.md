@@ -75,7 +75,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 #### 🔥 Featured Projects
 
 [![Hikari](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=HikariApp&repo=Hikari)](https://github.com/HikariApp/Hikari)
-[![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=github-followers-utility)](https://github.com/Yuzuk1Shimotsuki/github-followers-utility)
+[![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=Emergency-Shutdown-NT)](https://github.com/Yuzuk1Shimotsuki/Emergency-Shutdown-NT)
 
 #### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
