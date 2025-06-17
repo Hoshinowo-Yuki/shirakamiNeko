@@ -58,7 +58,7 @@ As a chronically online user, here are some info about me :)
 
 &emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
 
-&emsp;🏫 **19 y/o**, **year 1 undergraduate EE** student _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_ from HK<br>
+&emsp;🏫 **19 y/o**, **year 2 undergraduate Information Engineering** student _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_ from HK<br>
 
 &emsp;💻 **"Programming"** since **2022**, theoretically...<br>
 
