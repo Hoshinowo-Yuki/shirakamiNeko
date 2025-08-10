@@ -8,7 +8,7 @@
 -->
 
 
-[![Banner](img/banner.jpg)](https://lolicon.wtf)
+[![Banner](img/banner.jpg)](https://moe.lolicon.wtf)
 
 <details>
   <summary>GitHub Stats:</summary>
@@ -34,39 +34,19 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hii <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" height="40">, Yuzuki です
+        Hii <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" alt="(Waving.gif)" height="40">, Yuzuki です
       </h1>
+      <br>
+      <img src="https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
     </summary>
   </ul>
 </div>
 
+### 🔧 Languages & Tools
+![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,jquery,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
 
-> [!NOTE]
-> This README is avaliable in the following languages:
-> 
-> [**English**](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README.md)&emsp;[廣東話](https://github.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/blob/main/README_cantonese.md)
-
-### 🌟 Welcome to my secret palace! You're my ![(Profile views server is down. Please refresh and try again later.)](https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru) visitor.
-
-You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
-
-As a chronically online user, here are some info about me :)
-
-&emsp;👄 √√√ **霜月柚希** (**霜月ゆずき**, 羅馬音: **Shimotsuki Yuzuki**) /<br><br>
-&emsp;&emsp;&emsp; √√ **霜月ひかり**, 羅馬音: **Shimotsuki Hikari** /<br><br>
-&emsp;&emsp;&emsp;&ensp;&nbsp; √ **Coding 大師** 🤔 / **先天 Coding 聖體** (???)
-
-&emsp;&emsp;&ensp; _(aka. **高登大師** / **Golden Ching** if you close enough to me lol)_<br><br>
-
-&emsp;🏫 **19 y/o**, **year 2 undergraduate Information Engineering** student _(aka. 🌟 a **passionate developer**, **open-source** and **ACGM enthusiast**.)_ from HK<br>
-
-&emsp;💻 **"Programming"** since **2022**, theoretically...<br>
-
-&emsp;🎯 **Building full-stack web applications** since **2023**<br>
-
-&emsp;🌱 **React**, **Cloud Computing**...<br>
-
-<br>
+#### Currently learning
+![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
 
 ### 📦 Projects
 
@@ -80,14 +60,6 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 #### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
 [![magic-switch-box-microbit](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit)
-
-<br>
-
-### 🔧 Languages & Tools
-![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,jquery,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
-
-#### Currently learning
-![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
 
 <br>
 
@@ -114,7 +86,7 @@ Moreover, you can also connect with me using my public key below:
 
 <br>
 
-### ⚡ Some kind of fun facts I guess?
+### ⚡ Some kind of fun facts (I guess?)
 
 - 🚴 I enjoy cycling when I’m not coding
 - 🟠 Orange is my most fav fruit & color 🍊
