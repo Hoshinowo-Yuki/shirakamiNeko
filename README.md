@@ -46,7 +46,7 @@
 </div>
 
 
-I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong
+I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student.
 
 My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
 
@@ -92,7 +92,7 @@ pr,ps
 
 # Community works
 
-WIP
+
 
 # 🤝 How to reach me
 
@@ -108,8 +108,10 @@ You may head over to [my about.me](https://about.me/yuzuk1shimotsuki) for more
 # ❤️ Support
 
 If you appreciate my work, consider
-- Giving my repositories a ⭐ or
-- [Buy me a cup of coffee ☕][Buy_me_a_coffee]
+
+Giving my repositories a ⭐ or
+
+[Buy me a cup of coffee ☕][Buy_me_a_coffee]
 
 to cheer me up! 😊🥺
 
