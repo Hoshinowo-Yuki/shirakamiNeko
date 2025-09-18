@@ -7,7 +7,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
 [![Banner](img/banner.jpg)](https://moe.lolicon.wtf)
 
 <details>
@@ -30,84 +29,83 @@
 
 </details>
 
+
+<!-- Temp refactor for now -->
+<div align="center">
+
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul style="list-style: none">
     <summary>
-      <h1>
-        Hii <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" alt="(Waving.gif)" height="40">, Yuzuki です
-      </h1>
-      <br>
       <img src="https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
+      <br>
+      <h1>
+        Nya~ <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! Yuzuki です :3
+      </h1>
     </summary>
   </ul>
 </div>
 
-### 🔧 Languages & Tools
-![Skills](https://skillicons.dev/icons?i=arch,activitypub,au,aws,azure,bash,cloudflare,cs,css,docker,debian,figma,fediverse,git,github,githubactions,html,js,jquery,linux,md,mongodb,nextjs,nginx,nix,nodejs,pnpm,postgres,postman,pr,ps,py,pycharm,raspberrypi,rocket,sqlite,stackoverflow,ts,visualstudio,vscode,windows,wordpress)
 
-#### Currently learning
-![Skills Learning](https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,express,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers)
+I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong
 
-### 📦 Projects
+My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
+
+You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
+
+<br>
+
+# 📦 Projects
 
 I usually work on whatever sparks my interest and enjoy learning new things with each project I take on, but generally
 
-#### 🔥 Featured Projects
+### 🔥 Featured Projects
 
 [![Hikari](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=HikariApp&repo=Hikari)](https://github.com/HikariApp/Hikari)
 [![github-followers-utility](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=Emergency-Shutdown-NT)](https://github.com/Yuzuk1Shimotsuki/Emergency-Shutdown-NT)
 
-#### 🧠 Honorable Mentions
+### 🧠 Honorable Mentions
 [![telegram-bot](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=telegram-bot)](https://github.com/Yuzuk1Shimotsuki/telegram-bot)
 [![magic-switch-box-microbit](https://github-readme-stats-yuzukishimotsuki.vercel.app/api/pin?username=Yuzuk1Shimotsuki&repo=magic-switch-box-microbit)](https://github.com/Yuzuk1Shimotsuki/magic-switch-box-microbit)
 
 <br>
 
-### 🤝 How to reach me
+# 🔧 Skillset showcase
 
-<p align="left">
-  <a href="https://x.com/goldenlight6628" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter-x.svg" alt="X" width="40" height="40"/> </a>
-  &emsp;&emsp;
-  <a href="https://t.me/CodeCrafter404" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" alt="Telegram" width="40" height="40"/> </a>
-  &emsp;&emsp;
-  <a href="https://moe.lolicon.wtf/friends" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/website.svg" alt="Website" width="40" height="40"/> </a>
-  &emsp;&emsp;
-  <a href="mailto:yuzukishimotsuki-dev@lolicon.wtf" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/email.svg" alt="Email" width="40" height="40"/> </a>
-</p>
+### Languages & Framework
+
+<img align="center" src="https://skillicons.dev/icons?i=py,docker,html,js,ts,jquery,react,nginx,nodejs,css,bash" alt="Languages & Framework" />
+
+### Development platforms & IDE
+
+<img align="center" src="https://skillicons.dev/icons?i=cloudflare,vercel,git,vscode,visualstudio,azure,neovim,linux,pycharm" alt="Development platforms & IDE" />
+
+### OS
+<img align="center" src="https://skillicons.dev/icons?i=debian,ubuntu,kali,windows" alt="OS" />
+
+pr,ps
+
+### Currently Learning (Ungrouped)
+<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,astro,wordpress,raspberrypi,arch,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers" alt="Currently learning (Ungrouped)" />
+
+<br>
+<br>
+
+# Community works
+
+WIP
+
+# 🤝 How to reach me
+
+Email at `mailto:yuzukishimotsuki-dev@lolicon.wtf` or connect with me using my [GPG key :)
+](https://github.com/Yuzuk1Shimotsuki.gpg)
+
+You may head over to [my about.me](https://about.me/yuzuk1shimotsuki) for more
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="325" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
 
-or, you can visit me [Bento Profile][Bento] for more :)
-
-Moreover, you can also connect with me using my public key below:
-
-[My GPG key :)
-](https://github.com/Yuzuk1Shimotsuki.gpg)
-
 <br>
 
-### ⚡ Some kind of fun facts (I guess?)
-
-- 🚴 I enjoy cycling when I’m not coding
-- 🟠 Orange is my most fav fruit & color 🍊
-- 📚 Reading books about tech, science, or personal development is my jam (maybe...)
-- 🛤️ Always up for a challenge and love solving problems
-
-<br>
-
-My first programming language was **[Python][Python]**, which is still my prioritized language, but I've used and still use a variety of other programming languages such as: **JavaScript (JS)**/**[TypeScript (TS)][TypeScript]** (with **HTML** & **CSS**), **[Docker][Docker]**, **SQL** (When I was in high school. Using **[MongoDB][MongoDB]** for now), **C** (For my flipper-zero), and **[R](https://www.r-project.org/)**.
-
-My language of preference depends on the project and how I feel, but generally:
-- I use **[Python][Python]** and **[Docker][Docker]** on large projects such as websites
-- I use **[Python][Python]** (mainly) or **JS**/**[TS][TypeScript]** on small projects
-- I use **[Python][Python]** or **C** for programs that require high-performance
-- **JS**/**[TS][TypeScript]**, **HTML**5, **CSS**, and **[MongoDB][MongoDB]** are mostly used in web projects
-
-My favorites are definitely **[Python][Python]** and **[R][R]**; **[Python][Python]** for flexibility and beginner-friendly, and **[R][R]** for awesome graph plotting and analysis.
-
-<br>
-
-### ❤️ Support
+# ❤️ Support
 
 If you appreciate my work, consider
 - Giving my repositories a ⭐ or
