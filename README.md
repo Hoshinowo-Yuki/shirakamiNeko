@@ -120,12 +120,11 @@ I'm also one of the [Gemini Certified Educator](https://edu.google.accredible.co
 
 # 🤝 How to reach me
 
-Email at [`i@lolicon.wtf`](mailto:i@lolicon.wtf) / [`contact@lolicon.wtf`](mailto:contact@lolicon.wtf) or connect with me using my [GPG key :)
-](https://github.com/Yuzuk1Shimotsuki.gpg)
+Email at [`i@lolicon.wtf`](mailto:i@lolicon.wtf) / [`contact@lolicon.wtf`](mailto:contact@lolicon.wtf) or connect with [my public GPG key](https://github.com/Yuzuk1Shimotsuki.gpg) :)
 
-<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
+<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
 
-Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more
+Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more options
 
 <br>
 
