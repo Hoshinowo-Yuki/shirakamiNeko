@@ -7,6 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+
 [![Banner](img/banner.jpg)](https://moe.lolicon.wtf)
 
 <details>
@@ -50,7 +51,7 @@ I'm a passionate, mostly self-taught software engineer (aka. an open-source and 
 
 My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
 
-You may know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
+You may already know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
 
 <br>
 
@@ -69,39 +70,62 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 <br>
 
-# 🔧 Skillset showcase
+# 🔧 Skillset
 
 ### Languages & Framework
-
-<img align="center" src="https://skillicons.dev/icons?i=py,docker,html,js,ts,jquery,react,nginx,nodejs,css,bash" alt="Languages & Framework" />
+<img align="center" src="https://skillicons.dev/icons?i=py,docker,html,js,ts,jquery,react,nginx,nodejs,c,cpp,css,bash,r" alt="Languages & Framework" />
+<br>
+<br>
 
 ### Development platforms & IDE
-
 <img align="center" src="https://skillicons.dev/icons?i=cloudflare,vercel,git,vscode,visualstudio,azure,neovim,linux,pycharm" alt="Development platforms & IDE" />
+<br>
+<br>
 
 ### OS
-<img align="center" src="https://skillicons.dev/icons?i=debian,ubuntu,kali,windows" alt="OS" />
+<img align="center" src="https://skillicons.dev/icons?i=debian,windows,ubuntu,kali,redhat,android" alt="OS" />
+<br>
 
-pr,ps
+Oh, and the most important one, PVE 
+<br>
+<br>
+
+I'm familiar with most of the Linux distro (except arch, at least for now since I run my services mostly on PVE)
+
+Also, I'm relying on Adobe applications so much, which explained why Windows is still in my top priority (don't ask me to use MacOS)
+
+However, I would likely installing arch with custom dotfiles after the warranty of my laptop expires, so stay tunned!
+
+<br>
 
 ### Currently Learning (Ungrouped)
-<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,astro,wordpress,raspberrypi,arch,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers" alt="Currently learning (Ungrouped)" />
-
+<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,astro,wordpress,raspberrypi,arch,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers" alt="Currently Learning (Ungrouped)" />
 <br>
 <br>
 
-# Community works
+### Other tools
+<img align="center" src="https://skillicons.dev/icons?i=au,ae,pr,ps" alt="Other tools" />
 
+<br>
+<br>
+<br>
 
+# 🌍 Community & Achievements
+
+As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one the Assessment Committee Member (評核委員會成員) and Executive Committee Member (執行委員會成員) in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
+
+I'm also one of the [Gemini Certified Educator](https://edu.google.accredible.com/aa074285-0d4d-4061-a5ed-468edcaaa427?key=ea5caf9a2003757da38af25117faeea47ff15a911c5f9a894cea6a902266a2d8#acc.DnWcgB1y) now on Google, which was my first certification from Google (and definitely not the last)
+
+<br>
 
 # 🤝 How to reach me
 
-Email at `mailto:yuzukishimotsuki-dev@lolicon.wtf` or connect with me using my [GPG key :)
+Email at [`i@lolicon.wtf`](mailto:i@lolicon.wtf) / [`contact@lolicon.wtf`](mailto:contact@lolicon.wtf) or connect with me using my [GPG key :)
 ](https://github.com/Yuzuk1Shimotsuki.gpg)
 
-You may head over to [my about.me](https://about.me/yuzuk1shimotsuki) for more
+<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
 
-<a href="https://discordapp.com/users/885756325798227988"><img width="325" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="My Discord profile :)"></img></a>
+Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more
 
 <br>
 
@@ -109,9 +133,9 @@ You may head over to [my about.me](https://about.me/yuzuk1shimotsuki) for more
 
 If you appreciate my work, consider
 
-Giving my repositories a ⭐ or
+**1\.** Giving my repositories a ⭐ or
 
-[Buy me a cup of coffee ☕][Buy_me_a_coffee]
+**2\.** [Buy me a cup of coffee ☕][Buy_me_a_coffee]
 
 to cheer me up! 😊🥺
 
@@ -121,41 +145,11 @@ to cheer me up! 😊🥺
 
 #### "Focus on the solution, not the problem." - *Jim Rohn*
 
-<br>
-<br>
-
-2025 MMXXV © Yuzuk1Shimotsuki. All Rights Reserved.
-
-<br>
-<br>
-
-### Thank you for your reading 🥰
-
-
-
-
-
-
-
-
+# Have a great time! :3
 
 <!--Links in use in this markdown for references-->
 
-[Bento]: https://bento.me/yuzuk1shimotsuki
-
 [Buy_me_a_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
-
-[discord.py_GitHub]: https://github.com/Rapptz/discord.py
-
-[Python]: https://www.python.org/downloads/
-
-[Docker]: https://www.docker.com/
-
-[R]: https://www.r-project.org/
-
-[TypeScript]: https://www.typescriptlang.org/
-
-[MongoDB]: https://www.mongodb.com/
 
 
 <!--
@@ -173,4 +167,3 @@ Hi 👋, I'm @Yuzuk1Shimotsuki
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
