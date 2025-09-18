@@ -144,6 +144,8 @@ to cheer me up! 😊🥺
 
 #### "Focus on the solution, not the problem." - *Jim Rohn*
 
+<br>
+
 # Have a great time! :3
 
 <!--Links in use in this markdown for references-->
