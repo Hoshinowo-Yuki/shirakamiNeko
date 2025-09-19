@@ -92,7 +92,7 @@ Oh, and the most important one, PVE
 
 I'm familiar with most of the Linux distro (except arch, at least for now since I run my services mostly on PVE)
 
-Also, I'm relying on Adobe applications so much, which explained why Windows is still in my top priority (don't ask me to use MacOS)
+Also, I'm relying on Adobe applications so much, which is why Windows was still in my top priority (pls don't ask me to use MacOS)
 
 However, I would likely installing arch with custom dotfiles after the warranty of my laptop expires, so stay tunned!
 
@@ -124,7 +124,7 @@ Email at [`i@lolicon.wtf`](mailto:i@lolicon.wtf) / [`contact@lolicon.wtf`](mailt
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
 
-Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more options
+Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more
 
 <br>
 
