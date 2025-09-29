@@ -47,7 +47,7 @@
 </div>
 
 
-I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student.
+I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student under EE department.
 
 My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
 
@@ -120,19 +120,21 @@ I'm also become one of the [Gemini Certified Educator](https://edu.google.accred
 
 # 🤝 How to reach me
 
-Email at [`i@lolicon.wtf`](mailto:i@lolicon.wtf) / [`contact@lolicon.wtf`](mailto:contact@lolicon.wtf) or connect with [my public GPG key](https://github.com/Yuzuk1Shimotsuki.gpg) :)
+Email at [`hi@lolicon.wtf`](mailto:hi@lolicon.wtf) for general messaging, or [`yuzuk1shimotsuki@lolicon.wtf`](mailto:yuzuk1shimotsuki@lolicon.wtf) if you're looking for some formal collaboration.
+
+You can also connect with [my public GPG key](https://github.com/Yuzuk1Shimotsuki.gpg) or my Discord profile, as shown in below :)
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
 
-Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more
+Head over to my [about.me](https://about.me/yuzuk1shimotsuki) page for more info
 
 <br>
 
 # ❤️ Support
 
-If you appreciate my work, consider
+If you really appreciate my work, consider
 
-**1\.** Giving my repositories a ⭐ or
+**1\.** Leaving my repositories with a ⭐ or
 
 **2\.** [Buy me a cup of coffee ☕][Buy_me_a_coffee]
 
@@ -140,13 +142,31 @@ to cheer me up! 😊🥺
 
 <br>
 
-#### "Sometimes it's the journey that teaches you about the destination" - *Drake*
+# 💬 Favorite Quotes?
 
-#### "Focus on the solution, not the problem." - *Jim Rohn*
+As an EE student, here are some of my favorite quotes related to electricity :P
+
+#### "Sorry guys, the pain is too much for me, but I'm sure it is... AW! ... IT OPENED! ... IT OPENED! ARGH..." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=GlM6PE2kKVY&t=635s), 2017*
+
+#### "It's a strange pain. It's as if somebody's stabbing your finger, but the blade - it doesn't stop there. It keeps going through your veins until it reaches your heart. I love it." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=CkGVMWK10qU&t=219s), 2014*
+
+#### "Please join me for the first time to hear how it sounds, and one! two! three! four! ..." &ensp;—&ensp; *[ElectroBOOM](https://www.youtube.com/watch?v=TwIvUbOhcKE&t=36s), 2013*
+
+<br>
+<br>
+
+(Just kidding XDDD)
 
 <br>
 
-# Have a great time! :3
+#### "Sometimes it’s the journey that teaches you a lot about your destination." &ensp;—&ensp; *Drake, 2012*
+
+#### "Focus on the solution, not the problem." &ensp;—&ensp; *Jim Rohn, 1970s*
+
+<br>
+<br>
+
+# Thank you and have a great time! :3
 
 <!--Links in use in this markdown for references-->
 
