@@ -19,10 +19,10 @@
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&count_private=true&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ffca28&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api?username=Yuzuk1Shimotsuki&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ffa000" />
+          <img align="center" src="https://github-readme-stats-yuzukishimotsuki.vercel.app/api/top-langs?username=Yuzuk1Shimotsuki&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
         </td>
       </tr>
     </table>
