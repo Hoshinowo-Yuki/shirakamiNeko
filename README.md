@@ -7,8 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-[![Banner](img/banner.jpg)](https://moe.lolicon.wtf)
+<!-- Placeholder for a photo -->
 
 <details>
   <summary>GitHub Stats:</summary>
