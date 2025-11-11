@@ -15,7 +15,7 @@
   <br>
   <div>&emsp;Just to prove how lazy I am :)</div>
   <br>
-  <a href="https://github.com/Yuzuk1Shimotsuki">
+  <a href="https://github.com/shirakamiNeko">
     <table>
       <tr>
         <td>
@@ -37,10 +37,10 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <img src="https://count.getloli.com/get/@Yuzuk1Shimotsuki?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
+      <img src="https://count.getloli.com/get/@shirakamiNeko?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
       <br>
       <h1>
-        Nya~ <img src="https://raw.githubusercontent.com/Yuzuk1Shimotsuki/Yuzuk1Shimotsuki/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! Yuzuki です :3
+        Nya~ <img src="https://raw.githubusercontent.com/shirakamiNeko/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 白上ねこ です :3
       </h1>
     </summary>
   </ul>
