@@ -119,7 +119,7 @@ I'm also become one of the [Gemini Certified Educator](https://edu.google.accred
 
 # 🤝 How to reach me
 
-Email at [`hi@lolicon.wtf`](mailto:hi@lolicon.wtf) for general messaging, or [`yuzuk1shimotsuki@lolicon.wtf`](mailto:shirakamineko@lolicon.wtf) if you're looking for some formal collaboration.
+Email at [`hi@lolicon.wtf`](mailto:hi@lolicon.wtf) for general messaging, or [`shirakamineko@lolicon.wtf`](mailto:shirakamineko@lolicon.wtf) if you're looking for some formal collaboration.
 
 You can also connect with [my public GPG key](https://github.com/shirakamiNeko.gpg) or my Discord profile, as shown in below :)
 
