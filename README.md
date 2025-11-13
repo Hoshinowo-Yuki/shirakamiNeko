@@ -113,7 +113,7 @@ However, I would likely installing arch with custom dotfiles after the warranty 
 
 As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member for both Assessment Committee (評核委員會) and Executive Committee (執行委員會) in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
 
-I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/aa074285-0d4d-4061-a5ed-468edcaaa427?key=ea5caf9a2003757da38af25117faeea47ff15a911c5f9a894cea6a902266a2d8#acc.DnWcgB1y) right now, which was my first personal certification from Google (and definitely not the last)
+I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
 
 <br>
 
