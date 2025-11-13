@@ -165,7 +165,7 @@ As an EE student, here are some of my favorite quotes related to electricity :P
 <br>
 <br>
 
-### Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ :3
+### Thank you and have a great time ヽ(́◕◞౪◟◕‵)ﾉ
 
 <!--Links in use in this markdown for references-->
 
