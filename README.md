@@ -125,7 +125,7 @@ You can also connect with [my public GPG key](https://github.com/shirakamiNeko.g
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
 
-Head over to my [about.me](https://about.me/shirakamiNeko) page for more info
+Head over to my [gravatar](https://gravatar.com/shirakamineko) page for more info
 
 <br>
 
