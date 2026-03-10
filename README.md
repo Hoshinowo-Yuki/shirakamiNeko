@@ -60,12 +60,17 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ### 🔥 Featured Projects
 
-[![Hikari](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari)](https://github.com/HikariApp/Hikari)
-[![github-followers-utility](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT)](https://github.com/shirakamiNeko/Emergency-Shutdown-NT)
+[![Hikari](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=default#gh-light-mode-only)](https://github.com/HikariApp/Hikari)
+[![Hikari-Dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=dark#gh-dark-mode-only)](https://github.com/HikariApp/Hikari)
+
+[![github-followers-utility](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/Emergency-Shutdown-NT)
+[![github-followers-utility-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/Emergency-Shutdown-NT)
 
 ### 🧠 Honorable Mentions
-[![telegram-bot](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot)](https://github.com/shirakamiNeko/telegram-bot)
-[![magic-switch-box-microbit](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit)](https://github.com/shirakamiNeko/magic-switch-box-microbit)
+[![telegram-bot](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/telegram-bot)
+[![telegram-bot-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/telegram-bot)
+[![magic-switch-box-microbit](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/magic-switch-box-microbit)
+[![magic-switch-box-microbit-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/magic-switch-box-microbit)
 
 <br>
 
