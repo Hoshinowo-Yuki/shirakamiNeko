@@ -115,7 +115,6 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <a href="https://github.com/shirakamiNeko/telegram-bot">
   <picture>
     <source
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari" />
       srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
