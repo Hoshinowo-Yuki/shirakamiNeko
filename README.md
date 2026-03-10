@@ -14,38 +14,40 @@
   <br>
   <div>&emsp;Just to prove how lazy I am :)</div>
   <br>
-  <a href="https://github.com/shirakamiNeko">
-    <table>
-      <tr>
-        <td>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/shirakamiNeko">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
+            <img src="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark" />
           </picture>
-        </td>
-        <td>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shirakamiNeko">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
+            <img src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark" />
           </picture>
-        </td>
-      </tr>
-    </table>
-  </a>
+        </a>
+      </td>
+    </tr>
+  </table>
 </details>
 
 
