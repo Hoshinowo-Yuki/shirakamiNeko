@@ -18,15 +18,34 @@
     <table>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
+          <picture>
+            <source
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&cache_seconds=15&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
+          </picture>
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
+          <picture>
+            <source
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
+              media="(prefers-color-scheme: dark)"
+            />
+            <source
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img align="center" src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&cache_seconds=5&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
+          </picture>
         </td>
       </tr>
     </table>
   </a>
-
 </details>
 
 
@@ -60,17 +79,64 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 
 ### 🔥 Featured Projects
 
-[![Hikari](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=default#gh-light-mode-only)](https://github.com/HikariApp/Hikari)
-[![Hikari-Dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=dark#gh-dark-mode-only)](https://github.com/HikariApp/Hikari)
 
-[![github-followers-utility](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/Emergency-Shutdown-NT)
-[![github-followers-utility-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/Emergency-Shutdown-NT)
+<a href="https://github.com/HikariApp/Hikari">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=dark#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=default#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari" />
+  </picture>
+</a>
+
+<a href="https://github.com/shirakamiNeko/Emergency-Shutdown-NT">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=dark#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=default#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT" />
+  </picture>
+</a>
 
 ### 🧠 Honorable Mentions
-[![telegram-bot](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/telegram-bot)
-[![telegram-bot-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/telegram-bot)
-[![magic-switch-box-microbit](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=default#gh-light-mode-only)](https://github.com/shirakamiNeko/magic-switch-box-microbit)
-[![magic-switch-box-microbit-dark](https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=dark#gh-dark-mode-only)](https://github.com/shirakamiNeko/magic-switch-box-microbit)
+
+<a href="https://github.com/shirakamiNeko/telegram-bot">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=dark#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=default#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot" />
+  </picture>
+</a>
+
+<a href="https://github.com/shirakamiNeko/magic-switch-box-microbit">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=dark#gh-dark-mode-only"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=default#gh-light-mode-only"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit" />
+  </picture>
+</a>
 
 <br>
 
