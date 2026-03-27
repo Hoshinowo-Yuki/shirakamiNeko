@@ -20,14 +20,14 @@
         <a href="https://github.com/Hoshinowo-Yuki">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
+            <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
           </picture>
         </a>
       </td>
@@ -35,14 +35,14 @@
         <a href="https://github.com/Hoshinowo-Yuki">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
+            <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
           </picture>
         </a>
       </td>
@@ -60,7 +60,7 @@
       <img src="https://count.getloli.com/get/@shirakamiNeko?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
       <br>
       <h1>
-        Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 白上ねこ です :3
+        Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 星野有希 です :3
       </h1>
     </summary>
   </ul>
@@ -85,28 +85,28 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <a href="https://github.com/HikariApp/Hikari">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=dark"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=default"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=HikariApp&repo=Hikari&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=HikariApp&repo=Hikari" />
+    <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=HikariApp&repo=Hikari" />
   </picture>
 </a>
 
 <a href="https://github.com/Hoshinowo-Yuki/Emergency-Shutdown-NT">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=dark"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=default"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT" />
+    <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT" />
   </picture>
 </a>
 
@@ -115,28 +115,28 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 <a href="https://github.com/Hoshinowo-Yuki/telegram-bot">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=dark"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=default"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot" />
+    <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot" />
   </picture>
 </a>
 
 <a href="https://github.com/Hoshinowo-Yuki/magic-switch-box-microbit">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=dark"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=default"
+      srcset="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit" />
+    <img src="https://github-readme-stats-hoshinowoyuki.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit" />
   </picture>
 </a>
 
