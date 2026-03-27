@@ -145,7 +145,7 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 # 🔧 Skillset
 
 ### Languages & Framework
-<img align="center" src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,react,nginx,nodejs,c,cpp,css,bash,r" alt="Languages & Framework" />
+<img align="center" src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,nginx,nodejs,vue,c,cpp,css,bash,r" alt="Languages & Framework" />
 <br>
 <br>
 
@@ -167,7 +167,7 @@ I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthro
 <br>
 
 ### Currently Learning
-<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue" alt="Currently Learning" />
+<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack" alt="Currently Learning" />
 <br>
 <br>
 
