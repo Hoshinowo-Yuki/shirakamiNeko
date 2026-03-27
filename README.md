@@ -17,32 +17,32 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/shirakamiNeko">
+        <a href="https://github.com/Hoshinowo-Yuki">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats-shirakamineko.vercel.app/api?username=shirakamiNeko&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
+            <img src="https://github-readme-stats-shirakamineko.vercel.app/api?username=Hoshinowo-Yuki&count_private=true&show_icons=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&hide_border=true&icon_color=ff8c00&title_color=ff8c00" />
           </picture>
         </a>
       </td>
       <td>
-        <a href="https://github.com/shirakamiNeko">
+        <a href="https://github.com/Hoshinowo-Yuki">
           <picture>
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=dark"
               media="(prefers-color-scheme: dark)"
             />
             <source
-              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
+              srcset="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00&theme=default"
               media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
             />
-            <img src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=shirakamiNeko&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
+            <img src="https://github-readme-stats-shirakamineko.vercel.app/api/top-langs?username=Hoshinowo-Yuki&langs_count=8&layout=donut&hide_border=true&title_color=ff8c00" />
           </picture>
         </a>
       </td>
@@ -60,7 +60,7 @@
       <img src="https://count.getloli.com/get/@shirakamiNeko?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="75">
       <br>
       <h1>
-        Nya~ <img src="https://raw.githubusercontent.com/shirakamiNeko/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 白上ねこ です :3
+        Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 白上ねこ です :3
       </h1>
     </summary>
   </ul>
@@ -96,47 +96,47 @@ I usually work on whatever sparks my interest and enjoy learning new things with
   </picture>
 </a>
 
-<a href="https://github.com/shirakamiNeko/Emergency-Shutdown-NT">
+<a href="https://github.com/Hoshinowo-Yuki/Emergency-Shutdown-NT">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=dark"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT&theme=default"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=Emergency-Shutdown-NT" />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=Emergency-Shutdown-NT" />
   </picture>
 </a>
 
 ### 🧠 Honorable Mentions
 
-<a href="https://github.com/shirakamiNeko/telegram-bot">
+<a href="https://github.com/Hoshinowo-Yuki/telegram-bot">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=dark"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot&theme=default"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=telegram-bot" />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=telegram-bot" />
   </picture>
 </a>
 
-<a href="https://github.com/shirakamiNeko/magic-switch-box-microbit">
+<a href="https://github.com/Hoshinowo-Yuki/magic-switch-box-microbit">
   <picture>
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=dark"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit&theme=default"
+      srcset="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=shirakamiNeko&repo=magic-switch-box-microbit" />
+    <img src="https://github-readme-stats-shirakamineko.vercel.app/api/pin?username=Hoshinowo-Yuki&repo=magic-switch-box-microbit" />
   </picture>
 </a>
 
@@ -192,9 +192,9 @@ I'm also become one of the [Gemini Certified Educator](https://edu.google.accred
 
 # 🤝 How to reach me
 
-Email at [`hi@lolicon.io`](mailto:hi@lolicon.io) for general messaging, or [`shirakamineko@lolicon.io`](mailto:shirakamineko@lolicon.io) if you're looking for some formal collaboration.
+Email at [`hi@lolicon.io`](mailto:hi@lolicon.io) for general messaging, or [`hoshinoyuki@lolicon.io`](mailto:hoshinoyuki@lolicon.io) if you're looking for some formal collaboration.
 
-You can also connect with [my public GPG key](https://github.com/shirakamiNeko.gpg) or my Discord profile, as shown in below :)
+You can also connect with [my public GPG key](https://github.com/Hoshinowo-Yuki.gpg) or my Discord profile, as shown in below :)
 
 <a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.wtf/discord-api/user/885756325798227988" alt="You can also reach me by Discord"></img></a>
 
@@ -242,16 +242,16 @@ As an EE student, here are some of my favorite quotes related to electricity :P
 
 <!--Links in use in this markdown for references-->
 
-[Buy_me_a_coffee]: https://buymeacoffee.com/yuzuk1shimotsuki
+[Buy_me_a_coffee]: https://buymeacoffee.com/
 
 
 
 <!--
-**shirakamiNeko/shirakamiNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hoshinowo-Yuki/Hoshinowo-Yuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-Hi 👋, I'm @shirakamiNeko
+Hi 👋, I'm @Hoshinowo-Yuki
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
