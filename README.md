@@ -12,7 +12,7 @@
 <details>
   <summary>GitHub Stats:</summary>
   <br>
-  <div>&emsp;Just to prove how lazy I am :)</div>
+  <div>&emsp;<code>Just to prove how lazy I am XDD</code></div>
   <br>
   <table>
     <tr>
@@ -71,7 +71,7 @@ I'm a passionate, mostly self-taught software engineer (aka. an open-source and 
 
 My coding jounery started at around age 8, the moment I knew `ipconfig` in Windows. However, considered I have started "real-programming" on late 2022 and building full-stack web applications since 2023, I'm actually not having that much of potential tbh...
 
-You may already know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my Instagram, my personal blog site... or if you haven't, nice to meet you 😊!
+You may already know me from Discord (My Discord account / Discord bot I made), my YouTube channel, my IG / Threads, my blog... or if you haven't, nice to meet you 😊!
 
 <br>
 
@@ -145,33 +145,29 @@ I usually work on whatever sparks my interest and enjoy learning new things with
 # 🔧 Skillset
 
 ### Languages & Framework
-<img align="center" src="https://skillicons.dev/icons?i=py,docker,html,js,ts,jquery,react,nginx,nodejs,c,cpp,css,bash,r" alt="Languages & Framework" />
+<img align="center" src="https://skillicons.dev/icons?i=py,docker,astro,html,js,ts,jquery,react,nginx,nodejs,c,cpp,css,bash,r" alt="Languages & Framework" />
 <br>
 <br>
 
 ### Development platforms & IDE
-<img align="center" src="https://skillicons.dev/icons?i=cloudflare,vercel,git,vscode,visualstudio,azure,neovim,linux,pycharm" alt="Development platforms & IDE" />
+<img align="center" src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,git,vscode,visualstudio,azure,neovim,pycharm" alt="Development platforms & IDE" />
 <br>
 <br>
 
 ### OS
-<img align="center" src="https://skillicons.dev/icons?i=debian,windows,ubuntu,kali,redhat,android" alt="OS" />
+<img align="center" src="https://skillicons.dev/icons?i=arch,debian,linux,ubuntu,kali,redhat,raspberrypi,nix,windows,apple" alt="OS" />
 <br>
-
+<br>
 Oh, and the most important one, PVE 
 <br>
 <br>
 
-I'm familiar with most of the Linux distro (except arch, at least for now since I run my services mostly on PVE)
-
-Also, I'm relying on Adobe applications so much, which is why Windows was still in my top priority (pls don't ask me to use MacOS)
-
-However, I would likely installing arch with custom dotfiles after the warranty of my laptop expires, so stay tunned!
+I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthrough for Adobe applications along with that.
 
 <br>
 
-### Currently Learning (Ungrouped)
-<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,astro,wordpress,raspberrypi,arch,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue,workers" alt="Currently Learning (Ungrouped)" />
+### Currently Learning
+<img align="center" src="https://skillicons.dev/icons?i=androidstudio,bootstrap,bun,dotnet,electron,tailwind,rust,wordpress,java,jenkins,mysql,prisma,react,redis,sentry,spring,tailwind,tauri,webpack,vue" alt="Currently Learning" />
 <br>
 <br>
 
@@ -184,7 +180,7 @@ However, I would likely installing arch with custom dotfiles after the warranty 
 
 # 🌍 Community & Achievements
 
-As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member for both Assessment Committee (評核委員會) and Executive Committee (執行委員會) in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
+As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
 
 I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
 
