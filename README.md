@@ -52,11 +52,7 @@
   </table>
 </details>
 
-
-<!-- Temp refactor for now -->
-<div align="center">
-
-<div id="toc">
+<div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
       <img src="https://count.getloli.com/get/@Hoshinowo-Yuki?theme=moebooru&darkmode=0" alt="(Profile views server is down. Please refresh and try again later.)" height="150">
@@ -74,6 +70,11 @@
 > This README is avaliable in the following languages:
 > 
 > [English](https://github.com/Hoshinowo-Yuki/Hoshinowo-Yuki/blob/main/README.md)
+
+<!-- Temp refactor for now -->
+<div align="center">
+
+<br>
 
 I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student under EE department.
 
