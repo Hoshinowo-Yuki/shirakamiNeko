@@ -23,31 +23,21 @@ jobs:
 
       - run: npm run generate
 
+      - name: Import GPG key
+        run: |
+          echo "${{ secrets.GPG_PRIVATE_KEY }}" | gpg --batch --import
+          echo "allow-loopback-pinentry" >> ~/.gnupg/gpg-agent.conf
+          gpgconf --kill gpg-agent
+
       - name: Commit changes
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
         run: |
-          if git diff --quiet README.md; then
-            echo "No changes"
-            exit 0
-          fi
-
-          SHA=$(git rev-parse HEAD)
-          BLOB=$(gh api repos/${{ github.repository }}/git/blobs \
-            -f content="$(base64 -w 0 README.md)" \
-            -f encoding="base64" \
-            --jq '.sha')
-          TREE=$(gh api repos/${{ github.repository }}/git/trees \
-            -f base_tree="$SHA" \
-            -f 'tree[][path]=README.md' \
-            -f 'tree[][mode]=100644' \
-            -f 'tree[][type]=blob' \
-            -f "tree[][sha]=$BLOB" \
-            --jq '.sha')
-          COMMIT=$(gh api repos/${{ github.repository }}/git/commits \
-            -f message="Update README on file changes" \
-            -f tree="$TREE" \
-            -f 'parents[]='"$SHA" \
-            --jq '.sha')
-          gh api repos/${{ github.repository }}/git/refs/heads/main \
-            -X PATCH -f sha="$COMMIT"
+          git config user.name "${{ secrets.GIT_NAME }}"
+          git config user.email "${{ secrets.GIT_EMAIL }}"
+          git config commit.gpgsign true
+          git config user.signingkey "${{ secrets.GPG_KEY_ID }}"
+          git add README.md
+          git diff --staged --quiet || git commit -S -m "Update README on file changes" \
+            -c gpg.program="gpg --batch --pinentry-mode loopback --passphrase '$GPG_PASSPHRASE'"
+          git push
