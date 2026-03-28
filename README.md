@@ -191,7 +191,7 @@ I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthro
 
 As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
 
-I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cce-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
+I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
 
 <br>
 
