@@ -1,10 +1,10 @@
 import { readFileSync, writeFileSync } from "fs";
-import { variables } from "./config.js";
+import { personalProfileVars } from "./config.js";
 
 const template = readFileSync("README.template.md", "utf-8");
 
 let readme = template;
-for (const [key, value] of Object.entries(variables)) {
+for (const [key, value] of Object.entries(personalProfileVars)) {
   readme = readme.replaceAll(`%${key}%`, value);
 }
 

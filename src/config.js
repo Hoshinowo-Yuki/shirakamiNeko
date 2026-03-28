@@ -1,6 +1,16 @@
-export const variables = {
-  USERNAME: "星野有希",
-  DESCRIPTION: "A developer from Hong Kong",
-  SKILLS: "`Vue` · `Nuxt` · `TypeScript` · `Cloudflare`",
+export const personalProfileVars = {
+  NICK: "星野有希",
+  NICK_ENGLISH: "Hoshinowo Yuki",
+  NICK_HIRAGANA: "ホシノゆき",
+  USERNAME: "Hoshinowo-Yuki",
+  DESCRIPTION: "A software developer and prompt engineer that was born in HK",
+  GITHUB_LINK: "https://github.com/Hoshinowo-Yuki",
+  README_STATS_BASE_LINK: "https://github-readme-stats-hoshinowoyuki.vercel.app",
+  GENERAL_EMAIL: "hi@lolicon.io",
+  DEV_EMAIL: "hoshinoyuki@lolicon.io",
+  DISCORD_LINK: "https://discordapp.com/users/885756325798227988",
+  DISCORD_IMAGE_LINK: "https://api.lolicon.wtf/discord-api/user/885756325798227988",
+  GRAVATAR_LINK: "https://gravatar.com/shirakamineko",
+  GOOGLE_GEMINI_CERTIFICATE_LINK: "https://edu.google.accredible.com/11a9f41b-cce-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn",
   YEAR: new Date().getFullYear(),
 };
