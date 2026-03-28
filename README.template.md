@@ -68,6 +68,12 @@
   </ul>
 </div>
 
+<br>
+
+> [!NOTE]
+> This README is avaliable in the following languages:
+> 
+> [English](https://github.com/%USERNAME%/%USERNAME%/blob/main/README.md)
 
 I'm a passionate, mostly self-taught software engineer (aka. an open-source and ACGM enthusiast) from Hong Kong, currently as a INFE student under EE department.
 
