@@ -7,6 +7,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<!-- Please note that any updates should be performed in README.template.md instead of README.md since it will be overwritten when the README is regenerated. -->
+
 <!-- Placeholder for a photo -->
 
 <details>
@@ -60,7 +62,7 @@
       <img src="https://count.getloli.com/get/@Hoshinowo-Yuki?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="150">
       <br>
       <h1>
-        Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/shirakamiNeko/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 星野有希 です :3
+        Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/Hoshinowo-Yuki/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 星野有希 です :3
       </h1>
     </summary>
   </ul>
