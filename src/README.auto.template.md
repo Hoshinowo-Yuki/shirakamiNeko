@@ -58,7 +58,7 @@
       <img src="https://count.getloli.com/get/@%USERNAME%?theme=moebooru&darkmode=0" alt="(Profile views server is down. Please refresh and try again later.)" height="150">
       <br>
       <h1>
-        Nya~ <img src="https://raw.githubusercontent.com/%USERNAME%/%USERNAME%/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! %NICK% です :3
+        Nya~ <img src="https://raw.githubusercontent.com/%USERNAME%/%USERNAME%/main/img/waving.gif" alt="(Waving.gif)" height="40"> !&nbsp; %NICK% です :3
       </h1>
     </summary>
   </ul>
