@@ -6,8 +6,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
 <!-- Please note that any updates should be performed in README.template.md instead of README.md since it will be overwritten when the README is regenerated. -->
+<!-- This markdown file has been implemented with a template system, which will replace all the variables in the format of %VARIABLE_NAME% with the corresponding values defined in src/config.js. -->
 
 <!-- Placeholder for a photo, will be replaced at a later stage -->
 
@@ -59,7 +59,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <img src="https://count.getloli.com/get/@Hoshinowo-Yuki?theme=moebooru&darkmode=0" alt="(Profile views server is down. Please refresh and try again later.)" height="150">
+      <img src="https://count.getloli.com/get/@Hoshinowo-Yuki?theme=moebooru" alt="(Profile views server is down. Please refresh and try again later.)" height="150">
       <br>
       <h1>
         Nya~ <img src="https://raw.githubusercontent.com/Hoshinowo-Yuki/Hoshinowo-Yuki/main/img/waving.gif" alt="(Waving.gif)" height="40"> ! 星野有希 です :3
@@ -164,7 +164,7 @@ Oh, and the most important one, PVE
 <br>
 <br>
 
-I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthrough for Adobe applications along with that.
+I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthrough for Adobe applications along with that XDD
 
 <br>
 
@@ -184,7 +184,7 @@ I use Arch on my main desktop btw, and running a Windows 11 VM with GPU-passthro
 
 As a chronically online user, I usually participate in some communities which suits my interest. Currently, I'm one of the member in <a href="https://discord.com/channels/976332206144380958/1113706485831176232">HKAICT (香港 ICT 學苑)</a>
 
-I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
+I'm also become one of the [Gemini Certified Educator](https://edu.google.accredible.com/11a9f41b-cce-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn) right now, which was my first personal certification from Google (and definitely not the last)
 
 <br>
 
@@ -206,7 +206,7 @@ If you really appreciate my work, consider
 
 **1\.** Leaving my repositories with a ⭐ or
 
-**2\.** [Buy me a cup of coffee ☕][Buy_me_a_coffee]
+**2\.** [Buy me a cup of coffee ☕][Buy_me_a_coffee] (currently unavailable, will be back soon <3)
 
 to cheer me up! 😊🥺
 
