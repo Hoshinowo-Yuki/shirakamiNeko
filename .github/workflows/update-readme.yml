@@ -41,7 +41,7 @@ jobs:
           git config user.email "$GIT_EMAIL"
           git config commit.gpgsign true
           git config user.signingkey "$GPG_KEY_ID"
-          echo "test" | gpg --batch --pinentry-mode loopback \
+          echo "Configuring GPG signing..." | gpg --batch --pinentry-mode loopback \
             --passphrase "$GPG_PASSPHRASE" --clearsign > /dev/null
           git add README.md
           git diff --staged --quiet || git commit -S -m "auto: Update README on file changes"
