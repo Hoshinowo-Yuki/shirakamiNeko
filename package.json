@@ -1,0 +1,8 @@
+{
+  "name": "profile-readme",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node src/generate.js"
+  }
+}
