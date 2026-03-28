@@ -45,5 +45,5 @@ jobs:
           echo "test" | gpg --batch --pinentry-mode loopback \
             --passphrase "$GPG_PASSPHRASE" --clearsign > /dev/null
           git add README.md
-          git diff --staged --quiet || git commit -S -m "chore: Update README on file changes"
+          git diff --staged --quiet || git commit -S -m "auto: Update README on file changes"
           git push
