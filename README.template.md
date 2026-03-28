@@ -9,7 +9,7 @@
 
 <!-- Please note that any updates should be performed in README.template.md instead of README.md since it will be overwritten when the README is regenerated. -->
 
-<!-- Placeholder for a photo -->
+<!-- Placeholder for a photo, will be replaced at a later stage -->
 
 <details>
   <summary>GitHub Stats:</summary>
