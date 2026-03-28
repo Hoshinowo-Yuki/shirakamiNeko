@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - "README.template.md"
       - "src/**"
       - "img/**"
   workflow_dispatch:
