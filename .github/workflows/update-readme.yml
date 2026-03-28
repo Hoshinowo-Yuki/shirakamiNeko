@@ -23,22 +23,26 @@ jobs:
 
       - run: npm run generate
 
-      - name: Import GPG key
+      - name: Import GPG private key
+        env:
+          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
         run: |
-          echo "${{ secrets.GPG_PRIVATE_KEY }}" | gpg --batch --import
+          echo "$GPG_PRIVATE_KEY" | gpg --batch --import
           echo "allow-loopback-pinentry" >> ~/.gnupg/gpg-agent.conf
           gpgconf --kill gpg-agent
 
-      - name: Commit changes
+      - name: Commit changes with GPG signature
         env:
           GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+          GPG_KEY_ID: ${{ secrets.GPG_KEY_ID }}
+          GIT_NAME: ${{ secrets.GIT_NAME }}
+          GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
         run: |
-          git config user.name "${{ secrets.GIT_NAME }}"
-          git config user.email "${{ secrets.GIT_EMAIL }}"
+          git config user.name "$GIT_NAME"
+          git config user.email "$GIT_EMAIL"
           git config commit.gpgsign true
-          git config user.signingkey "${{ secrets.GPG_KEY_ID }}"
-          git config gpg.program "$(which gpg)"
-          echo "Commiting via GPG" | gpg --batch --pinentry-mode loopback \
+          git config user.signingkey "$GPG_KEY_ID"
+          echo "test" | gpg --batch --pinentry-mode loopback \
             --passphrase "$GPG_PASSPHRASE" --clearsign > /dev/null
           git add README.md
           git diff --staged --quiet || git commit -S -m "Update README on file changes"
