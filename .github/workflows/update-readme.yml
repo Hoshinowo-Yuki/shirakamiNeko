@@ -37,7 +37,9 @@ jobs:
           git config user.email "${{ secrets.GIT_EMAIL }}"
           git config commit.gpgsign true
           git config user.signingkey "${{ secrets.GPG_KEY_ID }}"
+          git config gpg.program "$(which gpg)"
+          echo "Commiting via GPG" | gpg --batch --pinentry-mode loopback \
+            --passphrase "$GPG_PASSPHRASE" --clearsign > /dev/null
           git add README.md
-          git diff --staged --quiet || git commit -S -m "Update README on file changes" \
-            -c gpg.program="gpg --batch --pinentry-mode loopback --passphrase '$GPG_PASSPHRASE'"
+          git diff --staged --quiet || git commit -S -m "Update README on file changes"
           git push
