@@ -10,7 +10,7 @@ export const personalProfileVars = {
   DEV_EMAIL: "hoshinoyuki@lolicon.io",
   DISCORD_LINK: "https://discordapp.com/users/885756325798227988",
   DISCORD_IMAGE_LINK: "https://api.lolicon.io/discord-api/user/885756325798227988",
-  GRAVATAR_LINK: "https://gravatar.com/shirakamineko",
+  GRAVATAR_LINK: "https://gravatar.com/hoshinowoyuki",
   GOOGLE_GEMINI_CERTIFICATE_LINK: "https://edu.google.accredible.com/11a9f41b-cc6e-4ff9-af82-3c202fdb1ecd#acc.iXJpgVLn",
   YEAR: new Date().getFullYear(),
 };
