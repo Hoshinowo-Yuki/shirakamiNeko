@@ -71,6 +71,8 @@
 > 
 > [English](https://github.com/Hoshinowo-Yuki/Hoshinowo-Yuki/blob/main/README.md)
 
+[![committers.top badge](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki.svg)](https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki)
+
 <!-- Temp refactor for now -->
 <div align="center">
 
