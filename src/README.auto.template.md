@@ -71,6 +71,8 @@
 > 
 > [English](https://github.com/%USERNAME%/%USERNAME%/blob/main/README.md)
 
+[![committers.top badge](%GITHUB_USER_BADGE_SVG%)](%GITHUB_USER_BADGE_LINK%)
+
 <!-- Temp refactor for now -->
 <div align="center">
 

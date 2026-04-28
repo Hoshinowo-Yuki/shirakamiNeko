@@ -5,6 +5,8 @@ export const personalProfileVars = {
   USERNAME: "Hoshinowo-Yuki",
   DESCRIPTION: "A software developer and prompt engineer that was born in HK",
   GITHUB_LINK: "https://github.com/Hoshinowo-Yuki",
+  GITHUB_USER_BADGE_SVG: "https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki.svg",
+  GITHUB_USER_BADGE_LINK: "https://user-badge.committers.top/hong_kong/Hoshinowo-Yuki",
   README_STATS_BASE_LINK: "https://github-readme-stats-hoshinowoyuki.vercel.app",
   GENERAL_EMAIL: "hi@lolicon.io",
   DEV_EMAIL: "hoshinoyuki@lolicon.io",
