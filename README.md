@@ -200,7 +200,7 @@ Email at [`hi@lolicon.io`](mailto:hi@lolicon.io) for general messaging, or [`hos
 
 You can also connect with [my public GPG key](https://github.com/Hoshinowo-Yuki.gpg) or my Discord profile, as shown in below :)
 
-<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://api.lolicon.io/discord-profile-preview/user/885756325798227988" alt="My Discord Profile"></img></a>
+<a href="https://discordapp.com/users/885756325798227988"><img width="400" src="https://discordprofile.api.lolicon.io/card/user/885756325798227988" alt="My Discord Profile"></img></a>
 
 Head over to my [gravatar](https://gravatar.com/hoshinowoyuki) page or my [personal site](PERSONAL_WEBSITE_LINK) for more info.
 
